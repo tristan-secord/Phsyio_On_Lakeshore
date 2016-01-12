@@ -1,0 +1,2220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>90/90 Rest Position Lumbar Spine</key>
+	<string>1. Lying on your back on the floor with a pillow under your head.
+2. Support your legs on a chair with hips and knees at right angles.
+3. Relax in this position.</string>
+	<key>AAROM Elbow Flexion</key>
+	<string>1. Grasp hand of your affected arm with your opposite arm. 
+2. Keep your affected arm relaxed.
+3. Using your opposite arm, bend your affected arm up at the elbow.
+4. Return slowly, keeping your affected arm relaxed.
+5. Don&apos;t lift your affected arm on it&apos;s own.
+6. Do not move quickly.</string>
+	<key>AAROM Flexion</key>
+	<string>1. Clasp hands together.
+2. Keep your affected arm relaxed.
+3. Bring your affected arm up, then back overhead, using your opposite arm.
+4. Do not lift your affected arm on its own</string>
+	<key>AAROM Flexion Prone</key>
+	<string>1. Cross you unaffected ankle over your affected side.
+2. Push your affected leg back, bending at the knee until you feel a stretch.
+3. Release slowly.
+4. Keep affected leg relaxed.
+5. Do not experience a lot of pain.</string>
+	<key>AAROM Internal Rotation/Extension</key>
+	<string>1. Grasp your affected arm behind you with your unaffected arm.
+2. Slowly raise hands up.
+3. Return slowly, keeping your affected arm relaxed.
+4. Do not move your arm behind your back on its own.
+5. Do not move quickly.</string>
+	<key>AAROM Knee Flexion on Wall</key>
+	<string>1. Cross you unaffected ankle over your affected side.
+2. Keep your hip down.
+3. Push your affected leg down, bending at the knee.
+4. Lie on your back with your affected foot on the wall.
+5. Do not let your buttock come off the floor.</string>
+	<key>AAROM Seated Flexion</key>
+	<string>1. Cross you unaffected ankle over your affected side.
+2. Keep your hip down.
+3. Push your affected leg back, bending at the knee.
+4. Do not let your buttock come off the chair.</string>
+	<key>AROM Ankle Dorsiflexion</key>
+	<string>1. Flex foot up towards you.
+2. Return slowly.
+3. Do not move your knee or your hip.</string>
+	<key>AROM Ankle Eversion</key>
+	<string>1. Bring foot outwards..
+2. Return slowly.
+3. Do not move your knee or your hip.</string>
+	<key>AROM Ankle Inversion</key>
+	<string>1. Bring foot inwards.
+2. Return slowly.
+3. Do not move your knee or your hip.</string>
+	<key>AROM Ankle Plantar Flexion</key>
+	<string>1. Point foot downwards.
+2. Return slowly.
+3. Do not move your knee or your hip.</string>
+	<key>AROM Cervical Extension</key>
+	<string>1. Standing or sitting with shoulders back and chest up, tip your head back.
+2. Return slowly.
+3. Work only in pain free range of motion.
+4. Do not apply overpressure.
+5. Do not experience any pain.</string>
+	<key>AROM Cervical Flexion</key>
+	<string>1. Standing or sitting with shoulders back and chest up, bring your chin to your chest.
+2. Return slowly.
+3. Work only in pain free range of motion.
+4. Do not apply overpressure.
+5. Do not experience any pain.</string>
+	<key>AROM Cervical Rotation</key>
+	<string>1. Standing or sitting with shoulders back and chest up, rotate your head to one side, then the other.
+2. Return slowly.
+3. Work only in pain free range of motion.
+4. Do not apply overpressure.
+5. Do not experience any pain.</string>
+	<key>AROM Cervical SideBending</key>
+	<string>1. Standing or sitting with shoulders back and chest up, bring your ear towards your shoulder, then to opposite shoulder.
+2. Return slowly.
+3. Work only in pain free range of motion.
+4. Do not apply overpressure.
+5. Do not experience any pain.</string>
+	<key>Abdominal Stabilization 1</key>
+	<string>1. Tighten up lower belly to pull in about 1/4 to 1/2 inch.
+2. Lift one foot off the ground, and return, then lift to opposite leg.
+3. Make sure you maintain your transverse abdominus contraction the entire time.
+4. Do not hold your breath.
+5. Do not tip your pelvis forwards or backwards.
+6. Do not &apos;suck in your tummy&apos;.
+7. Do not flex up at the trunk.
+8. Do not allow your pelvis to move.
+9. Do not flex your hip more than 90 degrees.</string>
+	<key>Abdominal Stabilization 2</key>
+	<string>1. Tighten up lower belly to pull in about 1/4 to 1/2 inch.
+2. Straighten one leg, and return, then straighten opposite leg.
+3. Make sure you maintain your transverse abdominus contraction the entire time.
+4. Do not hold your breath.
+5. Do not tip your pelvis forwards or backwards.
+6. Do not &apos;suck in your tummy&apos;.
+7. Do not flex up at the trunk.
+8. Do not allow your pelvis to move.
+9. Do not have leg higher than 45 degrees.</string>
+	<key>Abdominal Stabilization 3</key>
+	<string>1. Tighten up lower belly to pull in about 1/4 to 1/2 inch.
+2. Straighten one leg and extend your opposite arm over your head.
+3. Make sure you maintain your transverse abdominus contraction the entire time.
+4. Repeat to opposite side.
+5. Return to start position.
+6. Do not hold your breath.
+7. Do not tip your pelvis forwards or backwards.
+8. Do not &apos;suck in your tummy&apos;.
+9. Do not flex up at the trunk.
+10. Do not allow your pelvis to move.
+11. Do not have leg higher than 45 degrees.</string>
+	<key>Abdominal Stabilization 4</key>
+	<string>1. Keeping lower abdominals tight, slowly straighten one leg then the other in a bicycling fashion.
+2. Tighten up lower belly to pull in about 1/4 to 1/2 inch.
+3. Make sure you maintain your transverse abdominus contraction the entire time.
+4. Begin with knees bent and feet 6-8 inches from the floor.
+5. Do not flex up at the trunk.
+6. Do not allow your pelvis to move.
+7. Do not hold your breath.
+8. Do not tip your pelvis forwards or backwards.
+9. Do not &apos;suck in your tummy&apos;.</string>
+	<key>Abdominal Stabilization 5</key>
+	<string>1. Extend legs without touching feet to floor.
+2. Tighten up lower belly to pull in about 1/4 to 1/2 inch.
+3. Make sure you maintain your transverse abdominus contraction the entire time.
+4. Begin with knees bent, then slowly bring both knees towards to chest, keeping lower abs tight.
+5. Do not &apos;suck in your tummy&apos;.
+6. Do not flex up at the trunk.
+7. Do not extend your back.
+8. Do not allow your pelvis to move.
+9. Do not hold your breath.
+10. Do not tip your pelvis forwards or backwards.</string>
+	<key>Abdominal Stabilization 6</key>
+	<string>1. Lie on your side.
+2. Keeping tummy tight, lift both legs up off the floor several inches.
+3. Make sure you maintain your transverse abdominus contraction the entire time.
+4. Do not &apos;suck in your tummy&apos;.
+5. Do not flex up at the trunk.
+6. Do not allow your pelvis to move.
+7. Do not extend your back.
+8. Do not hold your breath.
+9. Do not tip your pelvis forwards or backwards.</string>
+	<key>Abdominal Stabilization 7</key>
+	<string>1. Tighten up lower belly to pull in about 1/4 to 1/2 inch.
+2. Begin with knees slightly bent and legs in the air as shown.
+3. Keeping lower abdominals tight, slowly tap one heel down,
+4. Make sure you maintain your transverse abdominus contraction the entire time.
+5. Repeat with opposite leg.
+6. Do not &apos;suck in your tummy&apos;.
+7. Do not flex up at the trunk.
+8. Do not allow your pelvis to move.
+9. Do not hold your breath.
+10. Do not tip your pelvis forwards or backwards.</string>
+	<key>Abdominal Stabilization Heel Slides</key>
+	<string>1. Make the &quot;Core Connection&quot; and hold it
+2. Slowly straighten 1 knee by sliding heel on floor.
+3. Bend knee back up to start position sliding the heel up.
+4. Do not lose your &quot;Core Connection&quot;.
+5. Do not hold your breath.</string>
+	<key>Abdominal Stretch</key>
+	<string>1. Lying on your stomach, leaning on your elbows/forearms.
+2. Arch the small of your back by pressing your pelvis and stomach to the floor.
+3. Now arch your upper back, keeping forearms on the floor.
+4. Stick your chest up and out.</string>
+	<key>Abductor Squats</key>
+	<string>1. Start with feet no more than hip distance apart.
+2. Place ball just above your knee.
+3. Push you knee into the ball as if you are trying to rotate it outwards.
+4. Maintain that pressure as you complete a 1/4 squat with the opposite leg.
+5. Return slowly.
+6. Do not allow the ball leg to rotate out.
+7. Do not bend your knee more than 25-30 degrees.</string>
+	<key>Adductor Butterfly Stretch</key>
+	<string>1. Lie on your back and bend your knees up slightly.
+2. Let your knees come apart until you feel a stretch in your inner thigh.
+3. Keep your heels together.
+4. Do not bounce.
+5. Do not stretch to the point of pain.</string>
+	<key>Ankle Dorsiflexion Isometric</key>
+	<string>1. Cross on foot over the other.
+2. Attempt to flex your bottom foot up, against the resistance of your top foot.
+3. Do not allow your foot to move.
+4. Do not hold your breath.</string>
+	<key>Ankle Eversion Isometric</key>
+	<string>1. Push side of foot into the wall or door jamb as if you are trying to move the foot outwards.
+2. Do not allow your foot to move.
+3. Do not roll your hip out.
+4. Do not bend your knee.</string>
+	<key>Ankle Inversion Isometric</key>
+	<string>1. Push side of foot into the wall or door jamb as if you are trying to move the foot inwards.
+2. Do not allow your foot to move.
+3. Do not roll your hip in.
+4. Do not bend your knee.</string>
+	<key>Ankle Plantar Flexion Isometric</key>
+	<string>1. Push ball of your foot into the wall or door jamb as if you are trying to point your toe.
+2. Do not allow your foot to move.
+3. Do not bend your knee.</string>
+	<key>Ankle Towel Stretch</key>
+	<string>1. Loop a towel around your foot.
+2. Pull your foot towards you with the towel, creating a stretch in your calf.
+3. Do not lift your hip or knee off the surface.</string>
+	<key>Anterior Ankle Stretch</key>
+	<string>1. Hook top of foot onto a chair or a table.
+2. Bend at the opposite knee to feel a stretch in the front of the ankle.
+3. Do not lean backwards.
+4. Do not lean forward.
+5. Do not bounce into the stretch.</string>
+	<key>Anterior Cervical Strengthening</key>
+	<string>1. Return to start position.
+2. Lie on your back with your head unsupported.
+3. Lower your head back over the edge of the bed.
+4. Tuck you chin in and lift your head up.
+5. Make sure you keep your chin tucked while you raise your head.
+6. Do not allow the shoulders and upper back to move.
+7. Do not clench the teeth or tighten the jaw. Only move as far as it feels easy to control and then return to the start position.</string>
+	<key>Anterior Cervical Strengthening Supine</key>
+	<string>1. Return to start position and repeat to the opposite side.
+2. Lie on your back with your head hanging over the back of the bed.
+3. Tuck your chin in, turn to the right, then lift your head slightly.
+4. Keep your chin tucked throughout the exercise.
+5. Do not allow the chin to poke forward or the shoulders to move forward or upwards at all.
+6. Do not clench the teeth or tighten the jaw. Only lift as far as it feels easy to control and hold this position.
+7. Do not hold at the point at which strain is felt.</string>
+	<key>Anterior Cervical Strengthening with Rotation</key>
+	<string>1. Lie on your back with your head unsupported over the end of the bed.
+2. Turn your head halfway to one side, then slowly lower your head back towards the floor.
+3. Return to start position and repeat to the other side.
+4. Do not clench the teeth or tighten the jaw.
+5. Do not experience any dizziness or lightheadedness.
+6. Do not hold the dropped head position at all.
+7. Do not allow the chin to poke forward at all or the shoulders and upper back to move.</string>
+	<key>Anterior Neck Strengthening</key>
+	<string>1. Lying on your back with your head supported by a pillow bring your chin straight back, creating a &apos;double chin&apos;.
+2. Keeping the double chin, left your head off the pillow about 2 cm.
+3. Return slowly.
+4. Do not bring chin down towards your chest.
+5. Do not lift up too high.</string>
+	<key>Ball Lunges</key>
+	<string>1. Stand with the top of your foot on the ball.
+2. Keep your knee pointed straight towards the floor.
+3. Roll your ball foot back, extend your hip, and straighten your knee.
+4. As you do this, bend the opposite knee.
+5. Slowly return.
+6. Hold on only if needed for balance.
+7. Keep chest up.
+8. Do not bend forward at the waist.
+9. Do not allow back leg to roll off the ball.
+10. Do not bend past 90 degrees at the knee.
+11. Do not allow knee to come over your toes.</string>
+	<key>Ball Stabilization - Abdominal Crunches</key>
+	<string>1. Lay with your back on the ball and your arms behind your head.
+2. &apos;Crunch&apos; up keeping your low back in contact with the ball.
+3. Return to start position.
+4. Do not hold your breath.
+5. Do not arch your back.</string>
+	<key>Ball Stabilization - Alternate Lower Extremity Step</key>
+	<string>1. Sit on the ball with hips and knees at 90 degrees and feet planted firmly on the floor
+2. Raise one foot up without losing your balance on the ball or leaning backwards.
+3. Return to start position and repeat to opposite side.
+4. Do not tip sideways on the ball or lose your balance.</string>
+	<key>Ball Stabilization - Lean Back</key>
+	<string>1. Keep your spine neutral and arms crossed over your chest, lean your trunk back.
+2. Lean back at your hips and let your bottom roll forward on the ball.
+3. Only lean back far enough so that your abdominals engage.
+4. Return slowly.
+5. Do not arch your back.</string>
+	<key>Ball Stabilization - Prayer Exercise</key>
+	<string>1. Kneel behind the ball with your hands on top, plams facing towards each other.
+2. Tighten your abdominals and roll the ball away from you.
+3. Keep your trunk in one plane.
+4. Keep abdominals tight and pull the ball back to starting position.
+5. Do not raise your buttocks.
+6. Do not bend forward at the hips.
+7. Do not allow your back to sag or arch.</string>
+	<key>Ball Stabilization - Prone Hip Extension</key>
+	<string>1. Start with your pelvis on the ball and your hands on the floor directly beneath your shoulders.
+2. Have hips bent slightly, then raise both legs up to the level of your buttocks, tightening at the gluteals.
+3. Return to start position.
+4. Do not arch your back.
+5. Do not hyperextend at the hips.</string>
+	<key>Ball Stabilization - Prone Lumbar Extension</key>
+	<string>1. Lie with your pelvis (hips) on the ball with hands grasped behind your head.
+2. Raise your trunk only to the level of your buttocks.
+3. Return to start position.
+4. Do not arch your back.</string>
+	<key>Ball Stabilization - Seated Alternate Arm Raise</key>
+	<string>1. Sit on the ball with hips and knees at 90 degrees and feet planted firmly on the floor.
+2. Raise one arm up without losing your balance on the ball or leaning backwards.
+3. Return to start position and repeat to opposite side.
+4. Do not tip sideways on the ball or lose your balance.</string>
+	<key>Ball Stabilization - Seated Opposite Arm and Leg</key>
+	<string>1. Sit on the ball with hips and knees at 90 degrees and feet planted firmly on the floor.
+2. Raise one arm and opposite leg up without losing your balance on the ball or leaning backwards.
+3. Return to start position and repeat to opposite side.
+4. Do not tip sideways on the ball or lose your balance.
+5. Do not lean backwards.</string>
+	<key>Ball Stabilization - Supine Alternate Leg Lift</key>
+	<string>1. Lie on your back with your feet firmly on the floor and your arms crossed over your chest.
+2. Lift one foot off of the ground, and return, keeping your trunk stable on the ball the entire time.
+3. Repeat with opposite leg.
+4. Do not hold your breath.
+5. Do not allow your hips to rock from side to side on the ball.</string>
+	<key>Ball Stabilization - Walkouts</key>
+	<string>1. Start with your pelvis on the ball and your hands on the floor directly beneath your shoulders.
+2. &apos;Walkout&apos; with your hands, letting the ball roll down your legs.
+3. Return to start position.
+4. Do not let lower back sag as you walk out.</string>
+	<key>Bent Over Row</key>
+	<string>1. Use weight as indicated by your therapist.
+2. Start with your arm hanging straight down and thumb pointing forward.
+3. Raise arm up, bending at the elbow.
+4. Slowly return to start position.
+5. Do not rush through exercise.
+6. Do not raise arm higher than the level of your waist.</string>
+	<key>Biceps Curl</key>
+	<string>1. Start with arm straight and by your side.
+2. Bend up at elbow, contracting the biceps muscle.
+3. Return in a slow and controlled manner.
+4. Keep abs tight.
+5. Do not pull the arm up ballsitically.
+6. Move only at the elbow, do not move your shoulder.</string>
+	<key>Bilateral Heel Raise on Step</key>
+	<string>1. Stand with both feet on a step with your heels over the edge of a step or stair.
+2. Push up through your toes completing a heel raise.
+3. Return slowly.
+4. Do not experience any pain with this exercise.
+5. Do not bounce up or down into this exercise.</string>
+	<key>Bilateral Pectoralis Stretch</key>
+	<string>1. Place fingertips to shoulder on wall,with elbows bent.
+2. Lean forward, creating a stretch in the front of the chest.
+3. Do not overstretch.
+4. Do not stretch to the point of pain.
+5. Do not extend your back.</string>
+	<key>Braiding</key>
+	<string>1. Start with feet facing forward.
+2. Cross right leg behind the left.
+3. Step out with left leg.
+4. Cross right leg in front of left.
+5. Step out with left leg.
+6. Do not look down at your feet.</string>
+	<key>Bridging</key>
+	<string>1. Slowly lower hips to the surface.
+2. Squeeze your buttocks.
+3. Keeping abdominals tight, lift your buttocks off of the surface.
+4. Keep shoulder blades on the surface.
+5. Keep hips/pelvis level.
+6. Do not arch your back.
+7. Do not raise your hips too far off of the surface.
+8. Do not hold your breath.</string>
+	<key>Bridging on Ball</key>
+	<string>1. Lower hips and return to starting position.
+2. Lie on the floor with your lower legs on top of the ball.
+3. Push down on the ball with your legs, raising your hips off of the floor.
+4. Squeeze your buttocks.
+5. Do not hold your breath.
+6. Do not arch your back.</string>
+	<key>Bridging with Step</key>
+	<string>1. Keep your hips/pelvis level for the entire exercise.
+2. Keep abdominals tight.
+3. Slowly raise buttocks from the surface.
+4. While keeping your hips raised, lift one foot up, flexing at the hip.
+5. Slowly lower your foot and repeat to the opposite side.
+6. Slowly lower hips to the surface.
+7. Do not raise your hips too far off of the surface.
+8. Do not arch your back.
+9. Do not hold your breath.</string>
+	<key>Bridging with Straight Leg Raise</key>
+	<string>1. Keep your hips/pelvis level for the entire exercise.
+2. Keep abdominals tight.
+3. Slowly raise buttocks from the surface.
+4. While keeping your hips raised, straighten out one leg.
+5. Slowly return leg to start position, and repeat with the other leg.
+6. Slowly lower hips to the surface.
+7. Do not arch your back.
+8. Do not raise your hips too far off of the surface.</string>
+	<key>Cat/Cow Stretch</key>
+	<string>1. Start on your hands and knees with your spine in neutral.
+2. Relax your back and stomach and let your back sag down, bringing your buttocks back and up.
+3. Then roll out your back by tucking your buttocks down and stretching up like a cat.
+4. Do not cause pain.
+5. Do not bounce.</string>
+	<key>Cervical Eye Exercises - Contralateral</key>
+	<string>1. Look to the right and &apos;think about&apos; (but don&apos;t) turn your head to the left.
+2. Repeat in opposite direction.
+3. Do not move your head.
+4. Do not overstrain.</string>
+	<key>Cervical Eye Exercises - Ipsilateral</key>
+	<string>1. Look to the right and &apos;think about&apos; (but don&apos;t) turn your head to the right.
+2. Repeat to opposite side.
+3. Do not move your head.
+4. Do not overstrain.</string>
+	<key>Cervical Isometric - Extension</key>
+	<string>1. Sit with good posture.
+2. Interlock fingers behind your head and press your head gently back into your hands as if trying to lean your head back.
+3. Do not allow your head to move.</string>
+	<key>Cervical Isometric - Flexion</key>
+	<string>1. Sit with good posture.
+2. Place heels of hands on your forehead and press your head gently forward into your hands.
+3. Do not allow your head to move.</string>
+	<key>Cervical Isometric - Rotation</key>
+	<string>1. Sit with good posture.
+2. Place fingertips on tyour temple and turn your head gently as if your are rotating your head.
+3. Repeat to opposite side.
+4. Do not allow your head to move.</string>
+	<key>Cervical Isometric - Sidebending</key>
+	<string>1. Sit with good posture.
+2. Place heel of hand on the side of your head and press your head gently sideways into your hand.
+3. Repeat to opposite side.
+4. Do not allow your head to move.</string>
+	<key>Cervical Retraction</key>
+	<string>1. Standing or sitting with shoulders back and chest up, bring your chin straight back, creating a &apos;double chin&apos;.
+2. Return slowly.
+3. Work only in pain free range of motion.
+4. Do not bring chin down towards your chest.</string>
+	<key>Cervical Retraction - Supine</key>
+	<string>1. Lying on your back with your head supported by a pillow bring your chin straight back, creating a &apos;double chin&apos;.
+2. Return slowly.
+3. Work only in pain free range of motion.
+4. Do not lift your head off of the pillow.</string>
+	<key>Cervical Segmental Isometric</key>
+	<string>1. Put your hand on the side of your neck, with your finger on the problem vertebra.
+2. Pull gently forward with your finger and offer resistance with your muscles.
+3. Do not push too hard in either direction.</string>
+	<key>Cervical Segmental Rotation</key>
+	<string>1. Pull the towel down and forward on your neck. Keeping the tension, turn your head rhythmically from right to left letting your eyes follow the movement.
+2. Sit in a chair with a towel around your neck at the position indicated by your therapist.
+3. Do not turn the head aggressively.</string>
+	<key>Cervical Stabilization - Rotation</key>
+	<string>1. Keep shoulder blades down and together.
+2. Slide head upwards and tuck chin slightly down.
+3. Take partial weight of the head off the pillows and slowly turn head to look at your shoulder.
+4. Move slowly.
+5. Lie on your side with your head supported on a pillow in a neutral position.
+6. Do not experience any pain or strain.
+7. Do not allow shoulder or chest to move.
+8. Do not allow chin to poke forward.</string>
+	<key>Cervical Stabilization - Seated Extension</key>
+	<string>1. Sit in a chair, with forearms supporting your upper body, round out your upper back.
+2. Move only at the base of the neck.
+3. Keeping upper back rounded bring your head back, while keeping your chin tucked in.
+4. Do not allow any movement at the upper back during this exercise.</string>
+	<key>Cervical Stabilization - Seated Rotation</key>
+	<string>1. Keep shoulder blades down and together.
+2. Keeping head tall and turn your head to across your shoulder.
+3. Keep eyes level.
+4. Sit in a chair with the back of your head and the shoulder blades on the wall.
+5. Do not let chin poke out.
+6. Do not experience any pain or strain.</string>
+	<key>Chest Press/Horizontal Adduction</key>
+	<string>1. Start lying on your back with knees bent, arms to the side .
+2. Lift your arms above your face keeping the elbows slightly bent. Lower arms back down.
+3. Only move at the shoulders, not at the trunk or the head/neck.</string>
+	<key>Codmans/Pendular Exercises</key>
+	<string>1. Keep arm completely relaxed.
+2. Move your arm front to back/side to side/circles using momentum.
+3. Pendular motion.
+4. Do not actively move your shoulder.
+5. You should not experience any pain.</string>
+	<key>Common Extensor Tendon Stretch</key>
+	<string>1. Raise arm straight out in front of you.
+2. Push down on your hand creating a stretch on the top of the forearm.
+3. Do bend at the elbow.</string>
+	<key>Common Extensor Tendon Stretch - Ulnar Deviation Bias</key>
+	<string>1. Raise arm straight out in front of you.
+2. Push down and out on your hand creating a stretch on the top of the forearm.
+3. Do bend at the elbow.</string>
+	<key>Common Flexor Tendon Stretch</key>
+	<string>1. Raise arm straight out in front of you.
+2. Push back on your hand creating a stretch on the underside of the forearm.
+3. Do not bend at the elbow.</string>
+	<key>Cone Walk</key>
+	<string>1. Line 3-6 cones up about 30cm apart.
+2. Side step up and over the cones by lifting your leg up at the hip.
+3. Make sure you lift your foot up and over the cone.
+4. Keeps hips level.
+5. Lead with each leg.
+6. Do not bring your foot behind the cones.
+7. Do not turn around to return, make sure you lead with each leg.</string>
+	<key>Double Knees to Chest</key>
+	<string>1. Hug both knees up to your chest.
+2. Relax lower back.</string>
+	<key>Eccentric Gastrocnemius Strengthening</key>
+	<string>1. Stand on a step with heels down.
+2. Raise up on the balls of both feet.
+3. Lift up one foot, and lower your heel down on one leg only.
+4. Raise up again using both feet.
+5. Do not experience any pain with this exercise.
+6. Do not bounce up or down into this exercise.</string>
+	<key>Eccentric Wrist Extension</key>
+	<string>1. Sit with forearm supported on a table or on your lap.
+2. &apos;Pick up&apos; your affected hand with your opposite hand.
+3. Make sure you keep your affected hand relaxed and allow it to be &apos;picked up&apos; with the other hand.
+4. Slowly lower hand without the assistance of the other hand.
+5. Do not move balistically or rapidly.
+6. Do not lift your hand on its own.</string>
+	<key>Edema Control Positioning</key>
+	<string>1. If you have swelling in your leg. Lie with your leg well supported and your foot above your hip.
+2. Make sure your leg is raised above the level of your heart.</string>
+	<key>Elbow AROM</key>
+	<string>1. Start with arm straight and by your side.
+2. Bend up at elbow.
+3. Return in a slow and controlled manner.
+4. Keep abs tight.
+5. Do not pull the arm up ballsitically.
+6. Move only at the elbow, do not move your shoulder.</string>
+	<key>Exercise Band Ankle Dorsiflexion</key>
+	<string>1. Fix exercise band in a door jam or have someone hold it for you.
+2. Flex foot up towards you.
+3. Return slowly.
+4. Do not move your knee or your hip.</string>
+	<key>Exercise Band Ankle Eversion</key>
+	<string>1. Fix exercise band in a door jam or have someone hold it for you.
+2. Sit sideways to the theraband.
+3. Bring foot outwards.
+4. Return slowly.
+5. Do not move your knee or your hip.</string>
+	<key>Exercise Band Ankle Inversion</key>
+	<string>1. Fix exercise band in a door jam or have someone hold it for you.
+2. Sit sideways to the theraband.
+3. Bring foot inwards.
+4. Return slowly.
+5. Do not move your knee or your hip.</string>
+	<key>Exercise Band Ankle Plantar Flexion</key>
+	<string>1. Loop exercise band around the bottom on your foot.
+2. Point foot down.
+3. Return slowly.
+4. Do not move your knee or your hip.</string>
+	<key>Exercise Band Balance Drill - Extension</key>
+	<string>1. Fix exercise band in front of you and loop opposite end around your ankle.
+2. Keep knee straight.
+3. Keep abs tight.
+4. Flex and extend hip back and forth in quick oscillations.
+5. Do not allow low back to extend.
+6. Do not lean forward at the waist.
+7. Do not sway.</string>
+	<key>Exercise Band Balance Drill - Flexion</key>
+	<string>1. Fix exercise band behind you and loop opposite end around your ankle.
+2. Keep knee straight.
+3. Keep abs tight.
+4. Flex and extend hip back and forth in quick oscillations.
+5. Do not allow low back to extend.
+6. Do not lean forward at the waist.
+7. Do not sway.</string>
+	<key>Exercise Band Elbow Extension</key>
+	<string>1. Fix exercise band into a door jamb.
+2. Start with your arm at your side and your elbow bent.
+3. Straighten your elbow keeping your elbow tucked into your side.
+4. Return slowly.
+5. Do not mov at the waist, shoulder, or back, move only at the elbow.
+6. Do not move balistically.</string>
+	<key>Exercise Band Elbow Flexion</key>
+	<string>1. Fix exercise band under your foot or to something stable.
+2. Start with your arm at your side and your elbow straight.
+3. Bend up at the elbow keeping your elbow tucked into your side.
+4. Return slowly.
+5. Do not move at the waist, shoulder, or back, move only at the elbow.
+6. Do not move balistically.</string>
+	<key>Exercise Band External Rotation Seated</key>
+	<string>1. Sit in a chair with an exercise band fixed in front of you.
+2. Keep elbow bent to 90 degrees.
+3. Keep shoulder blades down and together.
+4. Keeping elbow on the table, rotate your arm backwards to neutral only.
+5. Lower slowly.
+6. Do not straighten elbow.
+7. Do not rush through exercises.</string>
+	<key>Exercise Band Flexion</key>
+	<string>1. Fix theraband under your foot.
+2. Start with arm by your side.
+3. Bring your arm straight out in front of you to shoulder level.
+4. Keep elbow straight.
+5. Return slowly to start position.
+6. Do not &apos;bounce&apos; your arm, move in a slow and controlled manner.</string>
+	<key>Exercise Band Hip Abduction</key>
+	<string>1. Fix the exercise band to the side and loop opposite around your ankle.
+2. Hold onto a chair for balance.
+3. Start with feel hip distance apart.
+4. Lift your leg straight out the the side about 30-45 degrees.
+5. Return slowly.
+6. Do not lift leg higher than 45 degrees.
+7. Do not bend sideways at the waist.
+8. Do not sway.</string>
+	<key>Exercise Band Hip Adduction</key>
+	<string>1. Fix the exercise band to the side and loop opposite around your ankle.
+2. Hold onto a chair for balance.
+3. Bring leg towards midline, in front of your opposite leg.
+4. Keep abs tight.
+5. Return slowly.
+6. Do not bend your knee.
+7. Do not bend sideways at the waist.
+8. Do not sway.</string>
+	<key>Exercise Band Hip Adduction - Supine</key>
+	<string>1. Return slowly.
+2. Fix the exercise band to a table and then loop around your ankle.
+3. Lying on your back on the floor with one knee bent.
+4. Bring your leg towards midline.
+5. Do not move at your pelvis or trunk.</string>
+	<key>Exercise Band Hip Extension</key>
+	<string>1. Fix theraband in front of you and loop opposite end around your ankle.
+2. Hold onto chair for balance.
+3. Keep knee straight.
+4. Lift leg straight back about 20 degrees.
+5. Return slowly.
+6. Keep abs tight.
+7. Do not allow low back to extend.
+8. Do not lift leg too high.
+9. Do not lean forward at the waist.
+10. Do not sway.</string>
+	<key>Exercise Band Hip Flexion</key>
+	<string>1. Fix the theraband behind you and loop opposite end around your ankle.
+2. Hold onto a chair for balance.
+3. Keep knee straight.
+4. &apos;Make a muscle&apos; on top of your thigh, then lift leg straight forward.
+5. Lift only about 45 degrees.
+6. Slowly return.
+7. Keep abs tight.
+8. Do not let your knee bend.
+9. Do not lean forward at the waist.
+10. Do not sway.</string>
+	<key>Exercise Band Lat Pulldowns</key>
+	<string>1. Secure exercise band in door jamb.
+2. Grasp exercise band with each hand.
+3. Keep abs tight, bring arms down towards your side, bringing shoulder blades down and together.
+4. Return in a slow and controlled manner.
+5. Don&apos;t hike shoulders.
+6. Do not straighten elbows.
+7. Do not pull straight into your waist, make a &apos;W&apos; with your arms and head.</string>
+	<key>Exercise Band Pronation</key>
+	<string>1. Fix the exercise band underneath your foot and grip the opposite end with your hand.
+2. Rest your forearm on your knee.
+3. Start with palm facing up and and then turn your hand down.
+4. Return slowly.
+5. Do not move quickly, move in a slow and controlled manner.</string>
+	<key>Exercise Band Scapular Rows</key>
+	<string>1. Secure exercise band in door jamb.
+2. Grasp exercise band with each hand.
+3. Keep abs tight, bring elbows behind you, bringing shoulder blades down and together.
+4. Return in a slow and controlled manner.
+5. Don&apos;t hike shoulders.
+6. Do not straighten elbows.</string>
+	<key>Exercise Band Shoulder Abduction</key>
+	<string>1. Start with arm by your side.
+2. Fix theraband under your foot.
+3. Bring arm straight out to the side to shoulder level only.
+4. Keep elbow straight.
+5. Return slowly to start position.
+6. Do not &apos;bounce&apos; your arm, move in a slow and controlled manner.</string>
+	<key>Exercise Band Shoulder Adduction</key>
+	<string>1. Fix exercise band overhead.
+2. Keep elbow straight.
+3. Grasp exercise band and pull arm straight down to your side.
+4. Return slowly to start position.
+5. Do not &apos;bounce&apos; the arm, move in a slow controlled manner.</string>
+	<key>Exercise Band Shoulder Extension</key>
+	<string>1. Fix theraband overhead.
+2. Keep elbow straight.
+3. Grasp theraband and pull arm straight down to your hip.
+4. Return slowly to start position.
+5. Do not &apos;bounce&apos; the arm, move in a slow controlled manner.</string>
+	<key>Exercise Band Supination</key>
+	<string>1. Fix exercise band underneath your foot and grip the opposite end with your hand.
+2. Rest your forearm on your knee.
+3. Start with palm facing down and and then turn your hand up.
+4. Return slowly.
+5. Do not move quickly, move in a slow and controlled manner.</string>
+	<key>Exercise Band Walking Backward</key>
+	<string>1. Stand with an exercise band around your waist.
+2. Walk backward against the resistance of the exercise band.
+3. Return slowly.
+4. Do not extend your low back.
+5. Do not look down.</string>
+	<key>Exercise Band Walking Forward</key>
+	<string>1. Stand with an exercise band around your waist.
+2. Walk forward against the resistance of the exercise band.
+3. Return slowly.
+4. Do not lean forward at the waist.
+5. Do not look down.</string>
+	<key>Exercise Band Wrist Extension</key>
+	<string>1. Sit with forearm supported on a table or on your lap.
+2. Fix exercise band underneath your foot and hold the opposite end with your hand.
+3. With palm facing down, bring the back of your hand up towards you, extending at the wrist.
+4. Return slowly.
+5. Do not move balistically or rapidly.</string>
+	<key>Exercise Band Wrist Flexion</key>
+	<string>1. Sit with forearm supported on a table or on your lap.
+2. Fix exercise band underneath your foot and hold the opposite end with your hand.
+3. With palm facing up, bring your hand up towards you, flexing at the wrist.
+4. Return slowly.
+5. Do not move balistically or rapidly.</string>
+	<key>Extension Isotonic</key>
+	<string>1. Start with your arm hanging straight down and thumb pointing forward.
+2. Raise arm backward to the level of your hip.
+3. Slowly return to start position.
+4. Do not rush through exercise.
+5. Do not bend your elbow.
+6. Do not raise arm higher than the level of your hip.</string>
+	<key>External Rotation with Exercise Band</key>
+	<string>1. Fix theraband at waist level.
+2. Start with towel roll under your upper arm and elbow bent to 90 degrees.
+3. Keep upper arm against towel roll.
+4. Grasp theraband and rotate your arm outwards.
+5. Do not &apos;bounce&apos; the arm, move in a slow controlled manner.</string>
+	<key>External Rotation/Abduction Stretch</key>
+	<string>1. Stand in a doorway with your hand on the wall as shown.
+2. Lean forward slightly creating a stretch in your shoulder.
+3. Do not overstretch the shoulder.
+4. There should not be any sharp pain.</string>
+	<key>Flexor Tendon Stretch</key>
+	<string>1. Shift your body weight backwards until you can feel the stretch on the inside of your forearm.
+2. Stand leaning on a table with straight arms, palms against a table and fingers turned backwards.
+3. Do not bend at the elbow.</string>
+	<key>Forward Step down</key>
+	<string>1. Start with one foot on a step and hands on your hips.
+2. Hold on only if needed for balance.
+3. Tap your opposite heel on the floor, keeping weight on step leg.
+4. Keep your hips level.
+5. Keep kneecap in line with second toe.
+6. Slowly return.
+7. Do no exchange your weight.
+8. Do not drop your hip.
+9. Do not let your kneecap come over your toes.</string>
+	<key>Four Point Alternate Arm Raise</key>
+	<string>1. Return, and raise opposite arm in the same way.
+2. Keep your head in a neutral position.
+3. Keep your back flat and in neutral.
+4. Tighten you lower abdominals without allowing your lower back to move.
+5. Breathe.
+6. Raise one arm up about halfway to shoulder level.
+7. Do not allow low back to move.
+8. Do not extend your back or move your arm beyond the level of your hip.
+9. Do not hold your breath.
+10. Do not look forward.</string>
+	<key>Four Point Alternate Arm and Leg Raise</key>
+	<string>1. Keep your back flat and in neutral.
+2. Tighten you lower abdominals without allowing your lower back to move.
+3. Raise your opposite arm and leg up.
+4. Return, and raise opposite sides in the same way.
+5. Breathe.
+6. Keep your head in a neutral position.
+7. Do not hold your breath.
+8. Do not raise your arm above the level of your head.
+9. Do not allow low back to move.
+10. Do not extend your low back or move your leg beyond the level of your hip.
+11. Do not look forward.</string>
+	<key>Four Point Alternate Leg Raise</key>
+	<string>1. Keep your back flat and in neutral.
+2. Tighten you lower abdominals without allowing your lower back to move.
+3. Raise one leg up.
+4. Return, and raise opposite leg in the same way.
+5. Breathe.
+6. Keep your head in a neutral position.
+7. Do not hold your breath.
+8. Do not allow low back to move.
+9. Do not extend your low back or move your leg beyond the level of your hip.
+10. Do not look forward.</string>
+	<key>Four Point Shoulder Proprioception</key>
+	<string>1. Get into 4 point position.
+2. Lean forward and transfer your weight onto your arms, shift your weight to one side then the other.
+3. Return to start position.
+4. Keep your spine neutral.
+5. Do not cause pain.</string>
+	<key>Four Point Stabilization</key>
+	<string>1. Keep your back flat and in neutral.
+2. Tighten you lower abdominals without allowing your lower back to move.
+3. Breathe.
+4. Do not hold your breath.</string>
+	<key>Four Point Trunk Rotation</key>
+	<string>1. Start in 4 point position.
+2. Return to starting position.
+3. Repeat to opposite side.
+4. Lift your arm up to the side while rotating the body.
+5. Let your eyes follow the arm.
+6. Do not let your pelvis move.
+7. Do not experience any pain.</string>
+	<key>Gait Training - Push-Off</key>
+	<string>1. Step back with your step through foot.
+2. Start with both feet flat.
+3. Step through with one foot, raising the heel of the opposite foot.
+4. Exaggerate the heel raise and the break at the toes.
+5. Do not &apos;pick up&apos; the foot.</string>
+	<key>Gastrocnemius Stretch</key>
+	<string>1. Point toes forward.
+2. Lean forward keeping body straight and heels on the floor.
+3. Feel a stretch in your calf.
+4. Do not bounce into the stretch.</string>
+	<key>Gastrocnemius Stretch Off Step</key>
+	<string>1. Point toes forward.
+2. Let both heels drop down.
+3. Feel a stretch in your calf.
+4. Stand on the edge of a stool or step.
+5. Do not bounce into the stretch.</string>
+	<key>Gastrocnemius Stretch On Wall</key>
+	<string>1. Stand in front of a wall and prop toes against the wall, keeping heel on the floor.
+2. Feel a stretch in your calf.
+3. Lean forward gently.
+4. Do not bounce into the stretch.</string>
+	<key>Glut Max Retraining</key>
+	<string>1. Prop your toe.
+2. Straighten your knee.
+3. Squeeze buttocks on the side you are working.
+4. Point your toe so your leg is in the air.
+5. Focus on buttock squeeze.
+6. Return leg straight to surface.
+7. Make sure you proceed through the stages in the correct order.
+8. Do not hyperextend knee.
+9. Do not extend at your low back.
+10. Do not hold your breath.</string>
+	<key>Glut Set</key>
+	<string>1. Start with knees bent and feet on the floor.
+2. Squeeze your buttocks without lifting your hips off the surface.
+3. Relax.
+4. Do not hold your breath.
+5. Do not allow pelvis to move.</string>
+	<key>Gluteus Medius 1</key>
+	<string>1. Lie on your side with your knees and hips bent up.
+2. Shift hips towards your feet.
+3. Keeping heels together, roll your top knee up and out.
+4. Return slowly.
+5. Do not let hips roll backwards.
+6. Do not roll top leg past the level of your hip.</string>
+	<key>Gluteus Medius 2</key>
+	<string>1. Lie on your side with your knees and hips bent up.
+2. Shift hips towards your feet.
+3. Roll your top leg up and out, keeping knee and hip bent.
+4. Return slowly.
+5. Do not let hips roll backwards.
+6. Do not roll top leg past the level of your hip.</string>
+	<key>Gluteus Medius 3</key>
+	<string>1. Lie on your side with your legs straight.
+2. Shift hips towards your feet.
+3. Roll your top leg up and out, keeping knee and hip straight.
+4. Return slowly.
+5. Do not let hips roll backwards.
+6. Do not roll top leg past the level of your hip.</string>
+	<key>Gravity Assisted Elbow Extension</key>
+	<string>1. Position a towel roll under your upper arm.
+2. Keep your affected arm relaxed and let gravity help straighten your elbow.
+3. Don&apos;t lift your affected arm on it&apos;s own.
+4. Do not move quickly.</string>
+	<key>Great Toe Extension Strength</key>
+	<string>1. Start with foot flat on the floor.
+2. Extend big toe.
+3. Let other toes rest of the floor.</string>
+	<key>Great Toe Extension Stretch</key>
+	<string>1. Place bottom of big toe on the edge of a wall or a doorway.
+2. Let other toes rest of the floor.
+3. Feel a stretch through the big toe joint and through the arch of the foot.
+4. Don&apos;t stretch to the point of pain.</string>
+	<key>Gripping</key>
+	<string>1. Sit with forearm supported on a table or on your lap with a small towel roll in your hand.
+2. Squeeze towel roll.
+3. Slowly relax.
+4. Don&apos;t oversqueeze.</string>
+	<key>Hammer Curl</key>
+	<string>1. Start with arm straight and by your side with thumb pointing forward.
+2. Bend up at elbow, contracting the biceps muscle.
+3. Return in a slow and controlled manner.
+4. Keep abs tight.
+5. Do not pull the arm up rapidly.
+6. Move only at the elbow, do not move your shoulder.</string>
+	<key>Hamstring Curl on Ball</key>
+	<string>1. Keep hips/pelvis level.
+2. Lie on the floor with your lower legs on top of the ball.
+3. Push down on the ball with your legs, raising your hips off of the floor.
+4. Squeeze your buttocks.
+5. Bend your knees bringing your heels towards your buttocks, and rolling the ball towards you.
+6. Slowly straighten your knees and roll the ball away from you.
+7. Do not arch your back.
+8. Do not hold your breath.</string>
+	<key>Hamstring Set</key>
+	<string>1. Bend knee slightly.
+2. Keep your heel down.
+3. Dig heel into the surface as if you were trying to bend your knee.
+4. Do not let your buttock come off the floor/table/bed.
+5. Do not hold your breath.</string>
+	<key>Hamstring Stretch - Hurdle Style</key>
+	<string>1. Lean forward at the hips until a gentle stretch is felt in the hamstring.
+2. Keep chest forward.
+3. Do not slouch or round out your low back.
+4. Do not bounce while performing the stretch.</string>
+	<key>Hamstring Stretch Supine</key>
+	<string>1. Bring thigh to a comfortable position, holding your leg behind the knee.
+2. Straighten knee until a gentle stretch is felt at the back of your thigh.
+3. Do not stretch to the point of pain.
+4. Do not bounce the leg during the stretch.</string>
+	<key>Hamstring Stretch on Step</key>
+	<string>1. Rest heel on step.
+2. Lean forward at the hip feeling a gentle stretch in the hamstring.
+3. Keep chest forward.
+4. Do not slouch or round out lower back.
+5. Do not bounce.</string>
+	<key>Hamstring Stretch on Wall</key>
+	<string>1. Rest heel on wall so that a gentle stretch is felt in the hamstring.
+2. Do not experience sharp pain.</string>
+	<key>Heel Raises - Single Leg</key>
+	<string>1. Stand on one foot.
+2. Rise up on the ball of your foot.
+3. Slowly return.
+4. Hold on for balance only if needed.
+5. Do not allow toes to come off of the floor.</string>
+	<key>Heel Raises - two-legged</key>
+	<string>1. Rise up on the balls of your feet.
+2. Slowly return.
+3. Hold on for balance only if needed.
+4. Do not allow toes to come off of the floor.</string>
+	<key>Heel Slides</key>
+	<string>1. Slide heel towards buttock until you feel a stretch in the knee.
+2. Return slowly.
+3. Try to increase the amount of bending with each repetition.
+4. Do not cause any significant pain.
+5. Do not bounce into the stretch.</string>
+	<key>Heel Walking</key>
+	<string>1. Keeping you abdominals tight and your back straight, walk on your heels.
+2. Do not bend forward at the waist.</string>
+	<key>Heelslides with towel</key>
+	<string>1. Place towel/belt around heel
+2. Slide heel towards buttock until you feel a stretch in the knee, return slowly.
+3. Try to increase the amount of bending with each repetition.
+4. Do not cause any significant pain.
+5. Do not bounce into the stretch.</string>
+	<key>Hip Abduction Isometric</key>
+	<string>1. Bend knees up to about 90 degrees.
+2. Fix a strap or belt around your knees.
+3. Push your knees into the strap as if you are trying to bring them apart.
+4. Flexing the muscles of your buttocks.
+5. Do not hold your breath.</string>
+	<key>Hip Adduction Isometric</key>
+	<string>1. Bend knees up to about 90 degrees.
+2. Put a pillow between your knees.
+3. Squeeze pillow with your knees flexing your inner thigh muscles.
+4. Do not hold your breath.</string>
+	<key>Hip Adduction Isometric Seated</key>
+	<string>1. Sit on the floor with you legs bent, feet on the floor and your forearm supported between your knees.
+2. Squeeze your knees together resisting with your forearm.
+3. Do not hold your breath.</string>
+	<key>Hip External Rotation Stretch</key>
+	<string>1. Sitting on a chair with your foot on the opposite knee.
+2. Gently push your knee towards the floor.
+3. Do not bounce.
+4. Do not stretch to the point of pain.</string>
+	<key>Hip Flexion Isometric</key>
+	<string>1. Lie on the floor or bed with knees bent up.
+2. Flex one hip up towards you.
+3. Place your hand on the front of the thigh and as you try to pull the thigh further up, resist with your hand.
+4. Do not hold your breath.</string>
+	<key>Hip Flexor Stretch - Thomas Stretch</key>
+	<string>1. Lie on the edge of a table/bed.
+2. Hug one knee up to your chest.
+3. Let the opposite leg hand down and bend at the knee.
+4. Feel a stretch along the front of your hip.
+5. Do not bounce.
+6. Do not allow your low back to extend off the table/bed.</string>
+	<key>Hip Flexor/Quad Stretch</key>
+	<string>1. Loop a towel around your ankle.
+2. Drop your leg over the side of the table and pull on the towel to feel a stretch on the front of your hip and thigh.
+3. Lying on your back on a bed/table.
+4. Do not bounce.
+5. Do not allow low back to extend off the table/bed.</string>
+	<key>Horizontal Abduction Isotonic</key>
+	<string>1. Start with your arm hanging straight down and palm FORWARD.
+2. Raise your arm out to the side about 60 degrees.
+3. Lead with your thumb.
+4. Return slowly.
+5. Do not rush through exercise.
+6. Do not have palm facing towards floor.
+7. Do not raise arm to shoulder level, stay below this level.</string>
+	<key>Iliotibial Band Release - foam roller</key>
+	<string>1. Lie on your side with the foam roller just above the side of your thigh.
+2. Bend your opposite leg over your bottom leg.
+3. Roll yourself up and down on the roller along the outside of your thigh.
+4. Use your top leg to push yourself back and forth.
+5. Do not come up to the point of your hip.
+6. Do not roll down to the bony part of your knee.</string>
+	<key>Iliotibial Band Stretch Sidelying</key>
+	<string>1. Lie on your side.
+2. Bend bottom leg up slightly.
+3. Drop your top leg off of the table/bed and relax your leg..
+4. You will feel a stretch along the outside of your thigh.
+5. Do not bounce.</string>
+	<key>Inferior Capsule Stretch</key>
+	<string>1. Push down on elbow with opposite hand until you feel a gentle stretch in the shoulder.</string>
+	<key>Internal Rotation at 90/90 with Exercise Band</key>
+	<string>1. Fix exercise band at the level of your head.
+2. Start with shoulder and elbow at 90 degrees.
+3. Grasp exercise band and rotate your arm downwards keeping shoulder and elbow at 90 degrees.
+4. Do not &apos;bounce&apos; the arm, move in a slow controlled manner.</string>
+	<key>Internal Rotation with Exercise Band</key>
+	<string>1. Fix exercise band at waist level.
+2. Start with towel roll under your upper arm and elbow bent to 90 degrees.
+3. Keep upper arm against towel roll.
+4. Grasp exercise band and rotate your arm inwards.
+5. Do not &apos;bounce&apos; the arm, move in a slow controlled manner.</string>
+	<key>Internal Rotation/Extension AAROM</key>
+	<string>1. Stand with you back to a chair/countertop/doorknob.
+2. Place your hand on top of the object.
+3. Create a stretch in your shoulder by bending at the knees.
+4. Bear weight through your legs.
+5. Do not bear weight through your shoulder.
+6. There should not be any sharp pain.</string>
+	<key>Jar Roll</key>
+	<string>1. Freeze water in a jar (leave the lid off).
+2. Replace the lid for the exercise.
+3. Roll the bottom of your foot back and forth on the jar.
+4. Complete until the bottom of your foot is numb to the touch.
+5. Do not do for longer than 7-10 minutes as you risk frost bite.</string>
+	<key>Knee Extension Stretch Supine</key>
+	<string>1. Rest heel on a towel roll.
+2. Relax leg and let gravity increase the straightening.
+3. Do not cause any significant pain.
+4. Do not bounce into the stretch.</string>
+	<key>Kneeling Hip Flexor Stretch</key>
+	<string>1. Kneel on one knee.
+2. Keep body upright.
+3. Lean forward at the hips creating a stretch in the front of your hip.
+4. Do not bend forward at the waist.
+5. Do not arch your back.</string>
+	<key>Lateral Flexion Stretch</key>
+	<string>1. Stand straight with one hand on your hip and the other straight up.
+2. Bend to the side with opposite arm reaching overhead.
+3. Keep your pelvis in mid-position.
+4. Do not twist or bend forward.</string>
+	<key>Lateral Step Down</key>
+	<string>1. Start with one foot on a step and hands on your hips.
+2. Hold on only if needed for balance.
+3. Tap your opposite heel on the floor, keeping weight on step leg.
+4. Keep your hips level.
+5. Keep kneecap in line with second toe.
+6. Slowly return.
+7. Do no exchange your weight.
+8. Do not drop your hip.
+9. Do not let your kneecap come over your toes.</string>
+	<key>Levator Scapulae Stretch</key>
+	<string>1. Sitting in a chair or standing with shoulders down and back and chest up, bring your chin down towards your armpit, creating a stretch in your upper shoulder and back.
+2. Return slowly.
+3. Work only in pain free range of motion.
+4. Do not apply overpressure.
+5. Do not experience any pain.</string>
+	<key>Long Arc Quad</key>
+	<string>1. Start with knee bent at 90 degrees.
+2. Straighten knee using the muscle on top of your thigh.
+3. Do not bend forward at the waist.
+4. Do not hyperextend the knee.</string>
+	<key>Lower Cervical Extension with Upper Stabilization</key>
+	<string>1. Bring head forward and backward moving only at the base of the neck.
+2. Your fingers should not move during this motion.
+3. Sit in a chair with good posture with your middle finger at the base of the skull and your middle finger at the crease of your neck.
+4. Do not allow your index finger to &apos;sink&apos; into your neck.
+5. Do not experience any pain or strain.</string>
+	<key>Lower Cervical Extension with Upper Stabilization - Prone</key>
+	<string>1. Lie on your stomach with your head supported by a towel roll.
+2. Have you middle finger on the base of your skull and your index finger on your C2.
+3. Left your head backwards, moving only at the base of your neck.
+4. Do not allow your fingers to move.
+5. Don&apos;t allow the low back to move or allow cramping in the upper back muscles.
+6. Do not experience any pain or strain.</string>
+	<key>Lower Cervical Flexion with Thoracic Stabilization</key>
+	<string>1. Sit on a chair with good posture and back of head and shoulder blades on the wall.
+2. Arch your upper back slightly.
+3. Maintaining the arch, tip head forward moving only at the base of your neck.
+4. Return slowly.
+5. Do not allow any movement at the upper back during this exercise.</string>
+	<key>Lower Cervical Flexion with Upper Cervical Stabilization</key>
+	<string>1. Lean shoulder blades and head onto the board.
+2. Place your middle finger on the base of your skull and your index finger on your C2.
+3. Tilt your head forward moving only where the neck meets the thoracic spine.
+4. Your fingers should not move during this entire exercise.
+5. Return to the start position.
+6. Lean a board (eg, ironing board) against a wall about 30 degrees.
+7. Do not feel any pain.
+8. Do not allow the upper neck to move.</string>
+	<key>Lower Trunk Rotation</key>
+	<string>1. Sit on a bench or on the floor with your legs bent and together.
+2. You can keep your arms out to the side for balance.
+3. Twist your knees from side to side.
+4. Do not let your upper body move.
+5. Do not let your feet touch the floor.</string>
+	<key>Lower Trunk Rotation Table Top</key>
+	<string>1. Lie on the floor with your legs in table top position.
+2. You can keep your arms out to the side for balance.
+3. Twist your knees from side to side.
+4. Do not let your pelvis move.
+5. Do not let your upper body move.</string>
+	<key>Lumbar Extension Isometric</key>
+	<string>1. Lying on your back with your arms close to your side.
+2. Push your shoulders and heels towards the floor and lift your pelvis off the floor.
+3. Do not hyperextend the low back.</string>
+	<key>Lumbar Rotation</key>
+	<string>1. Lie on the floor or a bed with your knees bent.
+2. Keeping your knees together, rotate your hips to one side then the other.
+3. Do not cause pain.</string>
+	<key>Lumbar Stretch</key>
+	<string>1. Lie on your back with one leg bent.
+2. Bring your bent knee over the other leg and push your knee against the floor with the opposite hand.
+3. Then reach with the other arm to the opposite side looking in the same direction. You will feel the stretching in your lower back and bottom.
+4. Do not stretch aggressively.</string>
+	<key>Lumbar Traction over Table</key>
+	<string>1. Lean your upper trunk over a table (put a cushion on the edge to soften it), knees bent and arms holding on to the table.
+2. Let the weight of your legs curve and stretch the lower spine.
+3. Let legs hang.</string>
+	<key>Lunges</key>
+	<string>1. Start with feet hip distance apart.
+2. Step forward and bend both knees to no more than 90 degrees.
+3. Return slowly.
+4. Keep weight evenly distributed on both legs.
+5. Do not push off with front leg on your return.
+6. Make sure you bend the back leg, do not keep it straight.
+7. Do not lunge forward, bringing knees over toes.
+8. Do not bend forward at the waist.</string>
+	<key>Lunges with Exercise Band</key>
+	<string>1. Start with feet hip distance apart and an exercise band around your waist.
+2. Step forward and bend both knees to no more than 90 degrees using the exercise band as resistance.
+3. Return slowly.
+4. Keep weight evenly distributed on both legs.
+5. Do not lunge forward, bringing knees over toes.
+6. Do not bend forward at the waist.
+7. Do not push off with front leg on your return.
+8. Make sure you bend the back leg, do not keep it straight.</string>
+	<key>Median Nerve Floss</key>
+	<string>1. Position arm as demonstrated.
+2. Wave your hand back and forth.
+3. Bend at the elbow if you are experiencing any pain.
+4. Do not create any pain or symptoms in the arm at any time.</string>
+	<key>Median Nerve Floss - Cervical</key>
+	<string>1. Position arm as demonstrated.
+2. Bend your head away from your arm and return.
+3. Bend at the elbow if you are experiencing any pain.
+4. Do not create any pain or symptoms in the arm at any time.</string>
+	<key>Monster Walks</key>
+	<string>1. Start with the theraband under your feet and crossed over hands.
+2. Step tp the side against the resistance of the theraband.
+3. Have your knees slightly bent.
+4. Lift your foot off the ground to step.
+5. Do not take small steps.
+6. Do not slide your foot over.</string>
+	<key>PNF Exercise Band</key>
+	<string>1. Stand with abs tight and grasping the exercise band as shown.
+2. Pull exercise band down towards your opposite hip.
+3. Allow your trunk to rotate only slightly.
+4. Return slowly.
+5. Do not allow your hips to rotate.
+6. Do not sway.</string>
+	<key>PNF Exercise Band - on Ball</key>
+	<string>1. Stand with abs tight and grasping exercise band as shown.
+2. Pull exercise band down towards your opposite hip.
+3. Allow your trunk to rotate only slightly.
+4. Return slowly.
+5. Do not allow your hips to rotate.
+6. Do not sway.</string>
+	<key>PNF Exercise Band - one handed</key>
+	<string>1. Stand with abs tight and grasping exercise band as shown.
+2. Pull exercise band down towards your opposite hip.
+3. Return slowly.
+4. Do not allow your hips to rotate.
+5. Do not sway.
+6. Do not allow trunk to rotate.</string>
+	<key>PNF Exercise Band - one handed on Ball</key>
+	<string>1. Stand with abs tight and grasping exercise band as shown.
+2. Pull exercise band down towards your opposite hip.
+3. Allow your trunk to rotate only slightly.
+4. Return slowly.
+5. Do not allow your hips to rotate.
+6. Do not sway.</string>
+	<key>Pilates Spine Rotation</key>
+	<string>1. Lie on your side on the floor, with hips and knees bent.
+2. Have your arms straight out in front of you at shoulder height with your palms together.
+3. Inhale and reach to the top of the ceiling.
+4. Exhale and continue to reach your arm out to the side, allowing trunk, but not hips, to rotate, opening up the chest wall.
+5. Inhale and stay.
+6. As you exhale, initiate your abs and rotate your trunk back to the start position as if your pivot point is your belly button.
+7. Do not rotate your hips.
+8. Do not move quickly or &apos;passively&apos;.</string>
+	<key>Piriformis Stretch</key>
+	<string>1. Lie on your back.
+2. Bring knee up and over towards opposite shoulder.
+3. Feel a stretch in your buttock.
+4. Do not roll onto your side.
+5. Do not stretch to the point of pain.</string>
+	<key>Plank</key>
+	<string>1. Lying on your stomach, prop yourself up on your elbow and your toes.
+2. Keep your trunk in one plane.
+3. Do not allow back to sag or buttocks to rise.</string>
+	<key>Plank - Arm Lift</key>
+	<string>1. Start in the plank position, making sure your back is in a neutral position and your buttocks are not raised or sagging.
+2. Maintaining a neutral spine lift one arm.
+3. Repeat to opposite side.
+4. Do not lose the neutral spine position.
+5. Do not lift arm higher than the level of your shoulder.
+6. Do not hold your breath.</string>
+	<key>Plank - Arm and Leg Lift</key>
+	<string>1. Start in the plank position, making sure your buttocks are not raised or sagging.
+2. Maintaining a neutral spine lift one leg and the opposite arm.
+3. Repeat to opposite side.
+4. Do not lose the neutral spine position.
+5. Do not lift arm or leg higher than the level of your shoulder/buttocks.
+6. Do not hold your breath.</string>
+	<key>Plank - Leg Lift</key>
+	<string>1. Repeat to opposite side.
+2. Start in the plank position, making sure your back is in a neutral position and your buttocks are not raised or sagging.
+3. Maintaining a neutral spine and lift one leg.
+4. Do not lose the neutral spine position.
+5. Do not lift leg higher than the level of your buttocks.
+6. Do not hold your breath.</string>
+	<key>Plantar Fascia Stretch</key>
+	<string>1. Cross your foot over your opposite knee.
+2. Grasp the ball of your foot and pull you toes back.
+3. With your opposite hand, grasp your heel and pull downwards.
+4. Separate your hands creating a stretch in the arch of your foot.</string>
+	<key>Posterior Capsule Stretch</key>
+	<string>1. Lie on your affected side.
+2. Start with upper arm out to 90 degrees.
+3. Elbow must be bent to 90 degrees.
+4. Push down on your forearm with your opposite hand.
+5. Do not allow elbow to straighten.
+6. Do not roll onto your back, stay on top of your shoulder.</string>
+	<key>Pretzel Stretch</key>
+	<string>1. Lie on your back and bend your knees up slightly.
+2. Cross your ankle over your opposite knee.
+3. Pull opposite thigh gently toward your chest to stretch your buttock.
+4. Do not bounce.
+5. Do not stretch to the point of pain.
+6. Do not reach up with your trunk - use a towel around your thigh instead.</string>
+	<key>Pronation and Supination</key>
+	<string>1. Sit with forearm supported on a table or on your lap with a dowel or hammer in your hand, gripping it at the bottom.
+2. Turn palm down, then turn your palm upwards.
+3. Move in a slow and controlled manner.
+4. Do not move balistically or rapidly.
+5. Do not the hammer &apos;fall&apos; to each side.</string>
+	<key>Prone Ball Stabilization - Alternate Arm</key>
+	<string>1. Position yourself hips and stomach on the ball.
+2. Place your hands directly beneath your shoulder.
+3. Have weight evenly distributed throughout your hands, feet, and stomach.
+4. Keep your back flat and in neutral.
+5. Tighten you lower abdominals without allowing your lower back to move.
+6. Raise one arm up about halfway to shoulder level.
+7. Return, and raise opposite arm in the same way.
+8. Breathe.
+9. Keep your head in a neutral position.
+10. Do not hold your breath.
+11. Do not allow low back to move.
+12. Do not extend your back or move your arm past your head.
+13. Do not look forward.
+14. Do not allow yourself to twist or turn on the ball.</string>
+	<key>Prone Ball Stabilization - Alternate Arm and Leg</key>
+	<string>1. Return, and raise opposite sides in the same way.
+2. Breathe.
+3. Keep your head in a neutral position.
+4. Position yourself hips and stomach on the ball.
+5. Place your hands directly beneath your shoulder.
+6. Keep your back flat and in neutral.
+7. Have weight evenly distributed throughout your hands, feet, and stomach.
+8. Tighten you lower abdominals without allowing your lower back to move.
+9. Raise opposite arm and leg without extending your back.
+10. Do not extend your back.
+11. Do not look forward.
+12. Do not allow yourself to twist or turn on the ball.
+13. Do not hold your breath.
+14. Do not allow low back to move.</string>
+	<key>Prone Ball Stabilization - Alternate Leg</key>
+	<string>1. Return, and raise opposite leg in the same way.
+2. Breathe.
+3. Keep your head in a neutral position.
+4. Position yourself hips and stomach on the ball.
+5. Place your hands directly beneath your shoulder.
+6. Keep your back flat and in neutral.
+7. Have weight evenly distributed throughout your hands, feet, and stomach.
+8. Tighten you lower abdominals without allowing your lower back to move.
+9. Raise one leg up without extending your back.
+10. Do not extend your back.
+11. Do not look forward.
+12. Do not allow yourself to twist or turn on the ball.
+13. Do not hold your breath.
+14. Do not allow low back to move.</string>
+	<key>Prone Ball Stabilization - Ipsilateral Arm and Leg</key>
+	<string>1. Return, and raise left arm and leg in the same way.
+2. Breathe.
+3. Keep your head in a neutral position.
+4. Position yourself hips and stomach on the ball.
+5. Place your hands directly beneath your shoulder.
+6. Keep your back flat and in neutral.
+7. Have weight evenly distributed throughout your hands, feet, and stomach.
+8. Tighten you lower abdominals without allowing your lower back to move.
+9. Raise right arm and leg without extending your back.
+10. Do not extend your back.
+11. Do not look forward.
+12. Do not allow yourself to twist or turn on the ball.
+13. Do not hold your breath.
+14. Do not allow low back to move.</string>
+	<key>Prone Cervical Retraction</key>
+	<string>1. Lie on your stomach with your head supported with a towel roll.
+2. Tilt your head forward so that the chin moves towards your throat.
+3. Keep jaw and shoulders relaxed.
+4. Return slowly.
+5. Don&apos;t let the shoulders or the base of the neck move at all during this exercise.</string>
+	<key>Prone Cervical Stabilization</key>
+	<string>1. Raise your head slowly, moving only at the base of your neck without losing your chin tuck.
+2. Release.
+3. Keep your shoulders down and together.
+4. Start laying on your stomach with your chin tucked in.
+5. Do not allow your chin to poke out.
+6. Do not overstrain.</string>
+	<key>Prone Cervical Stabilization with Rotation 1</key>
+	<string>1. Lie on your stomach with your upper body propped up your forearms.
+2. Tuck your chin in and &apos;lengthen out&apos; your neck.
+3. Turn your head to one side about halfway then extend your head.
+4. Repeat to opposite side.
+5. Keep your chin tucked the entire time.
+6. Do not overextend.
+7. Do not experience any pain.</string>
+	<key>Prone Cervical Stabilization with Rotation 2</key>
+	<string>1. Tuck your chin in and &apos;lengthen out&apos; your neck.
+2. Turn your head to one side about halfway then extend your head.
+3. Repeat to opposite side.
+4. Keep your chin tucked the entire time.
+5. Lie on your stomach with your upper body propped up your forearms.
+6. Do not experience any pain.
+7. Do not overextend.</string>
+	<key>Prone Extension</key>
+	<string>1. Lift your upper trunk off the floor.
+2. Stretch your arms towards your heels.
+3. Lie on your stomach.
+4. Do not hold your breath.
+5. Do not overextend at the back.</string>
+	<key>Prone Extension Shoulder Flexion</key>
+	<string>1. Lie on your stomach with your arms overhead.
+2. Lift your upper trunk off the floor.
+3. Stretch your arms towards your fingertips.
+4. Do not hold your breath.
+5. Do not overextend at the back.</string>
+	<key>Prone External Rotation</key>
+	<string>1. Keep elbow bent to 90 degrees.
+2. Keep shoulder stabilized on the plinth.
+3. Squeeze shoulder blades down and together and raise forearm up to the level parallel with the surface.
+4. Lower slowly.
+5. Do not rush through the exercise.
+6. You should not experience any sharp pain.</string>
+	<key>Prone Hamstring Curl</key>
+	<string>1. Lie on your stomach.
+2. Bend knee up to 90 degrees.
+3. Return slowly.
+4. Do not extend your back.
+5. Do not bend knee more than 90 degrees.</string>
+	<key>Prone Hip Extension Abduction</key>
+	<string>1. Squeeze your buttocks together, bend knees and lift thighs off the floor.
+2. Return to start position.
+3. Lie on your stomach with a pillow under your hips.
+4. Bring thighs apart and back together.
+5. Do not arch your back.
+6. Do not extend too much at the hips.</string>
+	<key>Prone Hip Internal and External Rotation</key>
+	<string>1. Lie on your stomach with your knee bent up to 90 degrees.
+2. Bring foot towards midline rotating at the hip.
+3. Then bring foot outwards, again rotating at the hip.
+4. Move in a slow and controlled manner.
+5. Keep your abdominals tight.
+6. Do not allow pelvis to move.
+7. Do not let foot &apos;fall&apos; in each direction.</string>
+	<key>Prone Knee Extension Stretch</key>
+	<string>1. Put towel roll under you thigh, close to your knee.
+2. Relax your leg and let gravity help you improve the straightening.
+3. Do not cause any significant pain.
+4. Do not bounce into the stretch.</string>
+	<key>Prone Lying</key>
+	<string>1. Lie on your stomach with a pillow underneath your stomach.
+2. Relax lower back.</string>
+	<key>Prone Posterior Caspule Stretch</key>
+	<string>1. In this position, relax your back and rest upper body through your elbows.
+2. You should not experience any sharp pain.</string>
+	<key>Prone Press-Up</key>
+	<string>1. Place your hands on the floor and lift your trunk up as high as possible.
+2. Let your low back &apos;sag&apos; and keep your legs relaxed.
+3. Do not let your hips/pelvis come off of the surface.</string>
+	<key>Prone Stabilization Alternate Arm</key>
+	<string>1. Place a pillow under your hips.
+2. Tighten your lower abdominals by bringing your belly button towards your spine.
+3. Lift one arm off of the surface.
+4. Return slowly.
+5. Repeat with opposite arm.
+6. Do not hold your breath.
+7. Do not arch your back.
+8. Do not raise your arm above the level of your head.</string>
+	<key>Prone Stabilization Alternate Arm and Leg</key>
+	<string>1. Place a pillow under your hips.
+2. Tighten your lower abdominals by bringing your belly button towards your spine.
+3. Lift one arm and the opposite leg off of the surface.
+4. Return slowly.
+5. Repeat with opposite side.
+6. Do not arch your back.
+7. Do not hold your breath.
+8. Do not raise your arm above the level of your head.
+9. Do not raise your leg above the level of your buttock.</string>
+	<key>Prone Stabilization Alternate Leg</key>
+	<string>1. Tighten your lower abdominals by bringing your belly button towards your spine.
+2. Lift one leg from the surface.
+3. Return slowly.
+4. Repeat with opposite leg.
+5. Place a pillow under your hips.
+6. Do not hold your breath.
+7. Do not arch your back.
+8. Do not raise your leg above the level of your buttock.</string>
+	<key>Prone on Elbows</key>
+	<string>1. Resting on your elbows, relax your back completely.</string>
+	<key>Proprioception</key>
+	<string>1. Stand on one leg.
+2. Touch down with your toe if you begin to lose balance.
+3. This should be challenging.
+4. If this exercise becomes easy, close your eyes.
+5. Do not lock your stance leg.</string>
+	<key>Proprioception on counter top</key>
+	<string>1. Slowly shift weight from one side to the other.
+2. Keep shoulder blades down and together, and flat to back.
+3. Do not lock elbows.</string>
+	<key>Pulleys - Shoulder</key>
+	<string>1. Stand or sit.
+2. Grab the pulley handles with each hand.
+3. Use your unaffected arm to help raise your affected arm.
+4. Keep your affected arm relaxed during the entire exercise.
+5. Do not move quickly.</string>
+	<key>Push Up with Plus</key>
+	<string>1. Perform a push-up on a counter/table, keep elbows close to your body.
+2. Keep abs tight and trunk straight.
+3. Push all the way up and through, into the &quot;Plus&quot; position.
+4. Don&apos;t shrug your shoulders.
+5. Don&apos;t let hips or spine flex.</string>
+	<key>Quad Set</key>
+	<string>1. Put a towel roll under your knee.
+2. Keep your heel down.
+3. Tighten the muscle on top of your thigh.
+4. Do not let your buttock come off the floor/table/bed.
+5. Do not hold your breath.</string>
+	<key>Radial Deviation</key>
+	<string>1. Sit with forearm supported on a table or on your lap.
+2. With thumb on top, with your hand pointing somewhat downward, bring hand up towards you.
+3. Do not move balistically or rapidly.</string>
+	<key>Radial Deviation with Exercise Band</key>
+	<string>1. Sit with forearm supported on a table or on your lap.
+2. Fix exercise band underneath your foot and hold the opposite end with your hand.
+3. With thumb on top, with your hand pointing somewhat downward, bring hand up towards you.
+4. Do not move balistically or rapidly.</string>
+	<key>Radial Nerve Floss</key>
+	<string>1. Position arm as demonstrated.
+2. Wave your hand up and down.
+3. Bend at the elbow, or bring your arm closer to your body if you are experiencing any pain.
+4. Do not create any pain or symptoms in the arm at any time.</string>
+	<key>Radial Nerve Floss - Cervical</key>
+	<string>1. Position arm as demonstrated.
+2. Sidebend your head away from your arm and return.
+3. Bend at the elbow, or bring your arm closer to your body if you are experiencing any pain.
+4. Do not create any pain or symptoms in the arm at any time.</string>
+	<key>Reverse Codmans</key>
+	<string>1. Start with arm straight up towards ceiling.
+2. Move arm in small clockwise and counter clockwise circles.
+3. Do not move arm at the elbow or the wrist.
+4. Do not move in large ranges of motion.</string>
+	<key>Reverse Curl</key>
+	<string>1. Start with arm straight and by your side with palm facing down.
+2. Bend up at elbow, contracting the biceps muscle.
+3. Return in a slow and controlled manner.
+4. Keep abs tight.
+5. Do not pull the arm up ballsitically.
+6. Move only at the elbow, do not move your shoulder.</string>
+	<key>Reverse Plank</key>
+	<string>1. Lying on your back, prop yourself up on your elbow and your heels.
+2. Keep your trunk in one plane.
+3. Do not allow back to sag or buttocks to rise.</string>
+	<key>Rhomboid Stretch</key>
+	<string>1. Bend shoulder and elbow up to 90 degrees.
+2. With your opposite hand pull your elbow towards your chest, creating a stretch between the shoulder blades.
+3. Do not stretch to the point of pain.</string>
+	<key>Roll Over Plank</key>
+	<string>1. Start in side plank with arm in the air.
+2. Bend elbow to 90deg then roll body forward replacing top elbow with bottom.
+3. Twist body in opposite direction by pivoting on toes.
+4. Do not bend at low back or waist - stay solid as one long unit.</string>
+	<key>SLABIR</key>
+	<string>1. Lie on uninvolved side.
+2. Keep elbow straight.
+3. Keep shoulder blades down and together.
+4. Begin with hand by your back pocket with your thumb down.
+5. Raise arm 45 degrees.
+6. Lower slowly.
+7. Do not raise arm higher than 45 degrees (as shown).
+8. Do not rush through exercises.</string>
+	<key>Sahrmann abduction on wall</key>
+	<string>1. Start with your back and arms against the wall with thumbs up.
+2. Raise arms out to the side to shoulder level, keeping contact on the wall.
+3. Lower slowly.
+4. Do not move beyond shoulder level.
+5. Do not rush through the exercise.
+6. Do not move into painful ranges.
+7. Do not arch your back off the wall.</string>
+	<key>Scalene Stretch</key>
+	<string>1. Sitting in a chair or standing with shoulders down and back and chest up, bring your chin down towards your armpit, creating a stretch in your upper shoulder and back.
+2. Return slowly.
+3. Work only in pain free range of motion.
+4. Do not apply overpressure.
+5. Do not experience any pain.</string>
+	<key>Scalene/Sternocleidomastoid Stretch</key>
+	<string>1. Sitting in a chair or standing with shoulders down and back and chest.
+2. Put your right hand on your left shoulder.
+3. Bring your right ear to your right shoulder, then turn your head to the left, creating a stretch on the left side of your neck.
+4. Repeat to opposite side.
+5. Do not apply overpressure.
+6. Do not experience any pain.
+7. Do not allow your shoulder to rise.</string>
+	<key>Scapular Retraction and Depression</key>
+	<string>1. Pull shoulder blades down and together as if you are tucking them in your back pockets.
+2. Do not hike shoulders.
+3. Do not squeeze shoulder blades back beyond neutral.</string>
+	<key>Scapular Stabilization - Is</key>
+	<string>1. Lie flat on a table, flat bench, or bed.
+2. Start with arms hanging straight down with palms in.
+3. Raise arms straight back, not moving beyond shoulder level.
+4. Return slowly.
+5. Do not extend beyond the level of your shoulders/back/head.
+6. Do not swing arms.
+7. Do not experience any pain.</string>
+	<key>Scapular Stabilization - Ts</key>
+	<string>1. Lie flat on a table, flat bench, or bed.
+2. Start with arms hanging straight down with palms in.
+3. Raise arms straight up to the side, not moving beyond shoulder level.
+4. Return slowly.
+5. Do not extend beyond the level of your shoulders/back/head.
+6. Do not swing arms.
+7. Do not experience any pain.</string>
+	<key>Scapular Stabilization - Ys</key>
+	<string>1. Lie flat on a table, flat bench, or bed.
+2. Start with arms hanging straight down with thumbs out.
+3. Raise arms up on a 45 degree angle, not moving beyond shoulder level.
+4. Return slowly.
+5. Do not extend beyond the level of your shoulders/back/head.
+6. Do not swing arms.
+7. Do not experience any pain.</string>
+	<key>Seated Anterior Cervical Strengthening</key>
+	<string>1. Keep shoulders relaxed.
+2. Slide the back of the head upwards slightly.
+3. Return to start position.
+4. Sit in a chair with good posture.
+5. Do not allow increased tension in your neck.
+6. Do not clench your jaw.</string>
+	<key>Seated Anterior Cervical Strengthening Against Wall</key>
+	<string>1. Keep shoulders relaxed.
+2. Slide the back of the head upwards slightly.
+3. Return to start position.
+4. Sit in a chair with good posture with back of head resting against the wall.
+5. Do not allow increased tension in your neck.
+6. Do not clench your jaw.</string>
+	<key>Seated Cervical Stabilization</key>
+	<string>1. Tuck your chin in.
+2. Extend your head back while keeping your chin tucked in.
+3. Return to start position.
+4. Start seated in a chair with your hand on your chin.
+5. Do not overextend.
+6. Do not experience any pain.</string>
+	<key>Seated Exercise Band Hamstring Curl</key>
+	<string>1. Fix Theraband in door and loop arond your ankle.
+2. Start with your knee almost straight.
+3. Bend knee back towards the floor.
+4. Return slowly.
+5. Do not bend forward at the waist.
+6. Do not pull forcefully or ballistically.</string>
+	<key>Seated Heel Raises</key>
+	<string>1. Sit in a chair.
+2. Rise up on the balls of your feet.
+3. Slowly return.
+4. Keep weight evenly distributed between your feet.
+5. Do not allow toes to come off of the floor.</string>
+	<key>Seated Hip Flexion</key>
+	<string>1. Sitting on a chair.
+2. Lift one thigh up off the seat keeping the knee bent.
+3. Return to starting position.
+4. Repeat to opposite side.
+5. Do not lean forward at the waist.</string>
+	<key>Seated Internal and External Rotation</key>
+	<string>1. Sit on a chair or table.
+2. Bring your foot away from midline.
+3. Then bring your foot towards midline.
+4. Return slowly.
+5. Move in a slow and controlled manner.
+6. Do not allow your hip or buttock to come off the chair/table.
+7. Do not swing your leg.</string>
+	<key>Seated Lumbar Flexion</key>
+	<string>1. Relax lower back.
+2. Sit on a chair with your legs slightly apart.
+3. Bend forward at the waist and round out your back as much as possible.</string>
+	<key>Seated Piriformis Stretch</key>
+	<string>1. Pull your thigh towards your opposite hip.
+2. Sit on the floor and cross your leg over your opposite straight leg.
+3. Feel a stretch in your buttock.
+4. Do not stretch to the point of pain.</string>
+	<key>Seated Posture</key>
+	<string>1. Sit on a stool and practice good posture.
+2. Round out your back, then straighten up, regaining the normal curve of the spine and bringing the shoulder blades down and together.
+3. Tuck your chin in slightly.
+4. Don&apos;t overextend at your back.</string>
+	<key>Seated Quad Sets</key>
+	<string>1. Start sitting in a chair with knees bent to 90 degrees.
+2. Keep feet on floor.
+3. Tighten the muscle on top of your thighs.
+4. Do not let your buttock or back of thigh come off the chair.
+5. Do not hold your breath.</string>
+	<key>Seated Scapular Depression</key>
+	<string>1. Sitting on a chair, back straight.
+2. Clasp the seat of the chair and lift your bottom from the seat by straightening your elbows and pushing the shoulders down.
+3. Do not let your chin protrude forward.
+4. Do not overstrain.</string>
+	<key>Seated Thoracic Rotation</key>
+	<string>1. Sit in a chair with good posture and your arms crossed over your chest.
+2. Keeping good posture, twist to one direction, keeping the pelvis stable.
+3. Return and repeat to the opposite side.
+4. Do not let your body weight shift onto one side of the pelvis, and do not let the shoulders lean to the side.
+5. Do not twist to the point of pain.
+6. Do not allow the upper back and chest to drop into a rounded position or lift into an arched position.</string>
+	<key>Seated Thoracic Rotation 2</key>
+	<string>1. Sit in a chair with good posture and your hands behind your head.
+2. Keeping good posture, twist to one direction, keeping the pelvis stable.
+3. Return and repeat to the opposite side.
+4. Do not let your body weight shift onto one side of the pelvis, and do not let the shoulders lean to the side.
+5. Do not allow the upper back and chest to drop into a rounded position or lift into an arched position.
+6. Do not twist to the point of pain.</string>
+	<key>Seated Trunk Rotation with Exercise Band</key>
+	<string>1. Sit with your arms crossed holding on to an exercise band.
+2. Twist your upper trunk to one side letting the band resist the movement.
+3. Return to starting position. The movement should be controlled.
+4. Keep your pelvis still during the exercise.
+5. Do not allow hips to come off the chair.</string>
+	<key>Self Lumbar Traction</key>
+	<string>1. Lying on your back on the floor with a pillow under your head.
+2. Support your legs on a chair with hips and knees at right angles.
+3. Push gently with one or both thighs down towards the chair. Breathe out while pushing.</string>
+	<key>Serratus Punch</key>
+	<string>1. Start with your arm raised straight up towards the ceiling.
+2. Reach your arm upward, bringing your shoulder blade towards your ribcage.
+3. This is a telescoping motion.
+4. Do not bend elbow.
+5. Do not bring arm back down by your side.</string>
+	<key>Short Arc Quad</key>
+	<string>1. Put a towel roll under your knee.
+2. Straighten out your knee using the muscle on top of your thigh.
+3. Slowly return.
+4. Do not hyperextend your knee.</string>
+	<key>Shoulder Abduction Isometric</key>
+	<string>1. Push hand into wall gently.
+2. Press with about half force.
+3. Do not bend elbow.
+4. Do not use full force.</string>
+	<key>Shoulder Abduction Isotonic</key>
+	<string>1. Keep palms down.
+2. Raise arms out to the side to shoulder level.
+3. Lower slowly.
+4. Do not move beyond shoulder level.
+5. Do not rush through the exercise.
+6. Do not move into painful ranges.</string>
+	<key>Shoulder Adduction Isometric</key>
+	<string>1. Push hand into wall as if you are moving your arm inward.
+2. Press with about half force.
+3. Do not use full force.</string>
+	<key>Shoulder Empty Can Isotonic</key>
+	<string>1. Start with arms at side with thumbs down.
+2. Bring arms up about halfway to shoulder level, on a 45 degree diagonal.
+3. Lower slowly.
+4. Do not have arms directly out to the side.
+5. Do not move beyond halfway to shoulder level.
+6. Do not rush through the exercise.
+7. Do not move into painful ranges.</string>
+	<key>Shoulder Extension Isometric</key>
+	<string>1. Press hand backward into wall gently.
+2. Press with about half force.
+3. Do not bend your elbow.
+4. Do not use full force.</string>
+	<key>Shoulder External Rotation Isometric</key>
+	<string>1. Stand close to a wall or doorway.
+2. Press back of hand into wall/door frame.
+3. Press with about half force.
+4. Do not use full force.</string>
+	<key>Shoulder Flexion Isometric</key>
+	<string>1. Press hand forward into wall gently.
+2. Press with about half force.
+3. Do not bend elbow.
+4. Do not use full force.</string>
+	<key>Shoulder Flexion Isotonic</key>
+	<string>1. Start with arms at side with thumbs up.
+2. Raise arms to shoulder level.
+3. Keep shoulder blades down and together.
+4. Lower slowly.
+5. Do not move beyond shoulder level.
+6. Do not rush through the exercise.
+7. Do not move into painful ranges.
+8. Do not hike shoulders.</string>
+	<key>Shoulder Internal Rotation Isometric</key>
+	<string>1. Stand close to a door way.
+2. Stand with arm as shown, and press hand into door frame.
+3. Press with about half force.
+4. Do not use full force.</string>
+	<key>Shoulder Scaption Isotonic</key>
+	<string>1. Start with arms at side with thumbs up.
+2. Raise arms to shoulder level in the scapular plane (45 degrees).
+3. Keep shoulder blades down and together.
+4. Lower slowly.
+5. Do not move beyond shoulder level.
+6. Do not rush through the exercise.
+7. Do not move into painful ranges.
+8. Do not hike shoulders.</string>
+	<key>Side Lie Flexion</key>
+	<string>1. Raise your arm to 90 degrees only, as shown.
+2. Do not swing your arm.
+3. Do not raise arm more than 90 degrees.</string>
+	<key>Side Plank</key>
+	<string>1. Lying on your side, prop yourself up on your elbow and the side of your foot.
+2. Keep your trunk in one plane.
+3. Do not sag at the waist.</string>
+	<key>Side Plank Arm Raise</key>
+	<string>1. Lying on your side, prop yourself up on your elbow and the side of your foot.
+2. Keep your trunk in one plane.
+3. Raise your arm up.
+4. Do not sag at the waist.</string>
+	<key>Side Plank Arm and Leg Raise</key>
+	<string>1. Lying on your side, prop yourself up on your elbow and the side of your foot.
+2. Raise your arm and leg up.
+3. Keep your trunk in one plane.
+4. Do not sag at the waist.</string>
+	<key>Side Plank Leg Raise</key>
+	<string>1. Lying on your side, prop yourself up on your elbow and the side of your foot.
+2. Raise your leg up.
+3. Keep your trunk in one plane.
+4. Do not sag at the waist.</string>
+	<key>Side lie Abduction</key>
+	<string>1. Lift your arm straight up to 90 degrees only, as shown.
+2. Do not swing arm.
+3. Do not move arm beyond 90 degrees.</string>
+	<key>Sidelying External Rotation</key>
+	<string>1. Lie on uninvolved side.
+2. Place a towel roll under your upper arm.
+3. Keep elbow bent to 90 degrees.
+4. Keep shoulder blades down and together.
+5. Raise hand away from stomach until forearm is parallel to surface.
+6. Lower slowly.
+7. Do not straighten elbow.
+8. Do not rush through exercises.</string>
+	<key>Sidelying Hip Abduction on Ball</key>
+	<string>1. Lie on your side on the ball.
+2. Have your floor hand placed underneath your shoulder.
+3. Lift your top leg to the level of your hip.
+4. Return slowly.
+5. Do not roll back and forth on the ball.
+6. Do not move quickly.</string>
+	<key>Sidelying Internal Rotation</key>
+	<string>1. Start with arm slightly out to the side.
+2. Keep elbow bent to 90 degrees.
+3. Rotate forearm up towards stomach.
+4. Slowly return.
+5. Do not straighten elbow.
+6. Do not rush through the exercise.</string>
+	<key>Sidelying Quad Stretch</key>
+	<string>1. Grasp ankle, bending knee up, creating a stretch in your thigh.
+2. Keep you knee pointed straight down towards your feet.
+3. Do not lean backwards.
+4. Do not lean forward.
+5. Do not bounce into the stretch.</string>
+	<key>Single Heel Raise on Step</key>
+	<string>1. Stand on one leg on a step with your heels over the edge of a step or stair.
+2. Push up on one foot through your toes completing a heel raise.
+3. Return slowly.
+4. Do not experience any pain with this exercise.
+5. Do not bounce up or down into this exercise.</string>
+	<key>Single Knee to Chest - leg bent</key>
+	<string>1. Hug one knee up to your chest, keeping other knee bent.
+2. Relax lower back.</string>
+	<key>Single Knee to Chest - leg straight</key>
+	<string>1. Hug one knee up to your chest, keeping other knee straight.
+2. Relax lower back.</string>
+	<key>Sitting Posture with Lumbar Roll</key>
+	<string>1. Position the lumbar roll at the natural curve of your low back.</string>
+	<key>Soleus Stretch</key>
+	<string>1. Point toes forward.
+2. Lean forward keeping body straight and heels on the floor.
+3. Bend both knees.
+4. Feel a stretch just above your ankle.
+5. Do not bounce into the stretch.</string>
+	<key>Squat with Exercise Band</key>
+	<string>1. Stand with both knees slightly bent and exercise band tucked under your feet.
+2. Pull the band to hip height.
+3. Straighten your knees against the resistance of the exercise band.
+4. Return slowly.
+5. Do not bend your knees more than 45 degrees.</string>
+	<key>Squats</key>
+	<string>1. Hold onto the back of a chair or countertop.
+2. Bend your knees.
+3. Bring your buttocks back as if you are sitting in a chair.
+4. Return slowly.
+5. Do not bring knees forward.
+6. Bend at the hips, not the lower back.
+7. Do not bend farther than 75 degrees.</string>
+	<key>Stabilization Against Gravity</key>
+	<string>1. Lie on your side with your head unsupported.
+2. Keep the head in a neutral position, holding the weight of the head against gravity.
+3. Keep the head perfectly still.
+4. Do not hold your breath.
+5. Don&apos;t let the head or shoulders move at all or the jaw tighten up or poke out.</string>
+	<key>Standing AA Flexion</key>
+	<string>1. Grasp hands together
+2. Keep elbow straight.
+3. Slowly lift both arms up letting your unaffected arm lift your affected arm.
+4. Do not lift your affected arm up on its own.</string>
+	<key>Standing Abdominal Stabilization</key>
+	<string>1. Stand with your hips and knees slightly bent holding 1-2 kg weights in both hands.
+2. Tighten your stomach and lower back muscles to stabilize your lower spine and lift alternately arms up and bring back down.
+3. Flex shoulders up and down at an easy pace.
+4. Do not &apos;pump&apos; your arms.</string>
+	<key>Standing Extension</key>
+	<string>1. Place hands on back of your hips.
+2. Lean back, arching your back.</string>
+	<key>Standing Hamstring Curl</key>
+	<string>1. Hold onto the back of a chair or countertop.
+2. Bend knee up to 90 degrees.
+3. Return slowly.
+4. Do not lean forward.
+5. Do not lean backwards.
+6. Do not bend knee more than 90 degrees.</string>
+	<key>Standing Hip Flexion/Extension</key>
+	<string>1. Standing on a small step or stair for balance with support for balance.
+2. Allow outside leg to hang free over the edge of the step.
+3. Swing your leg forward and backward.
+4. Do not move your pelvis or your trunk.</string>
+	<key>Standing Hip Internal External Rotation</key>
+	<string>1. Standing on a small step or stair for balance with support for balance.
+2. Allow outside leg to hang free over the edge of the step.
+3. Turn your foot inwards and outwards keeping your toes in line with your kneecap. Feel the muscles in the hip working.
+4. Do not move your pelvis or your trunk.</string>
+	<key>Standing Iliotibial Band Stretch</key>
+	<string>1. Cross one leg behind the other.
+2. Tip your trunk away from that leg.
+3. You should feel the stretch along the outside of the thigh and hip.
+4. Don&apos;t let your foot slide on the floor.</string>
+	<key>Standing Posterior Capsule Stretch</key>
+	<string>1. Gently push on elbow with opposite hand.
+2. Feel a stretch in the shoulder.</string>
+	<key>Standing Quad Stretch</key>
+	<string>1. Hold on for balance if needed.
+2. Grasp ankle, bending knee up, creating a stretch in your thigh.
+3. Keep you knee pointed towards the floor.
+4. Do not lean backwards.
+5. Do not lean forward.
+6. Do not bounce into the stretch.</string>
+	<key>Standing Staight Leg Raise Flexion</key>
+	<string>1. Keep knee straight.
+2. &apos;Make a muscle&apos; on top of your thigh, then lift leg straight forward.
+3. Lift only about 45 degrees.
+4. Slowly return.
+5. Relax your back and your hip.
+6. Hold onto a chair for balance.
+7. Do not let your knee bend.
+8. Do not lean forward at the waist.</string>
+	<key>Standing Straight Leg Raise Extension</key>
+	<string>1. Hold onto chair for balance.
+2. Keep knee straight.
+3. Lift leg straight back about 20 degrees.
+4. Return slowly.
+5. Do not allow low back to extend.
+6. Do not lift leg too high.
+7. Do not lean forward at the waist.</string>
+	<key>Standing Straight Leg Raise abduction</key>
+	<string>1. Hold onto a chair for balance.
+2. Start with feel hip distance apart.
+3. Lift your leg straight out the the side about 30-45 degrees.
+4. Return slowly.
+5. Do not lift leg higher than 45 degrees.
+6. Do not bend sideways at the waist.</string>
+	<key>Standing Straight Leg Raise adduction</key>
+	<string>1. Hold onto a chair for balance.
+2. Bring leg towards midline, in front of your opposite leg.
+3. Return slowly.
+4. Do not bend your knee.
+5. Do not bend sideways at the waist.</string>
+	<key>Standing Wand Abduction</key>
+	<string>1. Keep elbow straight.
+2. Slowly push affected arm up.
+3. Return slowly, keeping affected arm relaxed.
+4. Do not lift your affected arm on its own.
+5. Do not move quickly.</string>
+	<key>Standing Wand Extension</key>
+	<string>1. Keep elbow straight.
+2. Slowly push affected arm back.
+3. Keep your trunk upright.
+4. Return slowly, keeping your affected arm relaxed.
+5. Do not move your affected arm on its own.
+6. Do not move quickly.</string>
+	<key>Standing Wand Flexion</key>
+	<string>1. Keep elbow straight.
+2. Slowly lift both arms up letting your unaffected arm lift your affected arm.
+3. Return slowly, keeping your affected arm relaxed.
+4. Do not lift your affected arm up on its own.
+5. Do not move quickly.</string>
+	<key>Standing Wand Internal Rotation/Extension</key>
+	<string>1. Hold wand behind you with hands as close together as possible.
+2. Slowly raise hands up.
+3. Return slowly, keeping your affected arm relaxed.
+4. Do not move your arm behind your back on its own.
+5. Do not move quickly.</string>
+	<key>Step Up</key>
+	<string>1. Start with one foot on a step and hands on your hips.
+2. Hold on only if needed for balance.
+3. Keep your hips level.
+4. Step up on step putting weight through the heel of your step leg.
+5. Slowly return.
+6. Do not drop your hip.
+7. Do not jump up onto step.</string>
+	<key>Stool Scoots</key>
+	<string>1. Sit on a rolling chair or stool.
+2. Pull yourself forward with your affected leg, using the hamstring.
+3. Use both legs only if needed.
+4. If on a chair, sit forward on the chair.
+5. Do not lean forward.</string>
+	<key>Straight Leg Raise Abduction</key>
+	<string>1. Lie on your side with your bottom knee bent.
+2. Keep your top leg straight and lift it up 30-45 degrees.
+3. Return slowly.
+4. Do not bend your top knee.
+5. Do not lift leg higher than 45 degrees.</string>
+	<key>Straight Leg Raise Extension</key>
+	<string>1. Keep knee straight.
+2. Lift leg straight off the surface about 20 degrees.
+3. Return slowly.
+4. Do not allow low back to extend.
+5. Do not lift leg too high.</string>
+	<key>Straight Leg Raise Flexion 1</key>
+	<string>1. Keep knee straight.
+2. &apos;Make a muscle&apos; on top of your thigh, then lift leg straight off surface.
+3. Lift only about 45 degrees.
+4. Slowly return.
+5. Relax your back and your hip.
+6. Do not let your knee bend.</string>
+	<key>Straight Leg Raise adduction</key>
+	<string>1. Lie on your side with your top leg bent over in front of the bottom leg.
+2. Keep your bottom leg straight and lift it up 30 degrees.
+3. Return slowly.
+4. Do not bend your bottom knee.
+5. Do not lift leg higher than 30 degrees.</string>
+	<key>Suboccipital Release</key>
+	<string>1. Tie 2 tennis or raquet balls into a sock.
+2. Lie on the floor with the tennis balls at the base of your head.
+3. Do not allow you neck to extend.</string>
+	<key>Suboccipital Stretch</key>
+	<string>1. Keep head in neutral.
+2. Lift the back of your head up and forward and drop your chin in.
+3. Start by laying on your stomach with your upper body supported by your forearms.
+4. Do not allow the chin to poke out or your shoulder blades to squeeze together.</string>
+	<key>Subocciptal Stretch and Upper Cervical Traction</key>
+	<string>1. Start sitting with your clenched hand between your chin and chest.
+2. Put the other hand behind your head at the base of your skull and gently pull your head forward and down.
+3. Feel a gentle stretch at the base of your neck.
+4. Do not move at the base of your neck.</string>
+	<key>Subscapularis Wings</key>
+	<string>1. Block right wrist against stomach with left hand.
+2. Start with elbow tucked at your side.
+3. &apos;Wing&apos; out right elbow without letting hand come off your stomach.
+4. Return slowly back to your side.
+5. Repeat to opposite side as indicated by your therapist.
+6. Do not roll your shoulders forward.</string>
+	<key>Supine Flexion</key>
+	<string>1. Bring arm overhead and slowly return.
+2. Keep elbow straight.
+3. Do not bring arm past shoulder level.</string>
+	<key>Supine Internal Rotation and External Rotation</key>
+	<string>1. Bring your forearm out, then back to stomach.
+2. Keep elbow bent to 90 degrees.
+3. Do not straighten elbow.</string>
+	<key>Supine Punch</key>
+	<string>1. Lie on your back with a towel roll under your arm.
+2. Raise your arm up towards the ceiling in a controlled manner.</string>
+	<key>Supine Rest Position</key>
+	<string>1. Lie on your back with 1-2 pillows under your knees.</string>
+	<key>Supine Sciatic Nerve Floss</key>
+	<string>1. Lie on the floor with your calf resting on an ottoman, table, or pillows.
+2. Hip should be flexed about 30-45 degrees.
+3. Keep knee straight.
+4. Point and flex your foot slowly.
+5. Do not rotate your hip.
+6. You should not feel any symptoms with this exercise.</string>
+	<key>Supine Sciatic Nerve Floss - External Rotation</key>
+	<string>1. Lie on the floor with your calf resting on an ottoman, table, or pillows.
+2. Keep knee straight.
+3. Roll leg out to the side slightly.
+4. Point and flex your foot slowly.
+5. Hip should be flexed about 30-45 degrees.
+6. You should not feel any symptoms with this exercise.</string>
+	<key>Supine Wand External Rotation</key>
+	<string>1. Keep elbow bent to 90 degrees.
+2. Slowly push hand out and towards the floor/table.
+3. Place a towel roll under your upper arm.
+4. Do not straighten your elbow.</string>
+	<key>Supine Wand Flexion</key>
+	<string>1. Slowly raise arm overhead using wand.
+2. Return slowly, keeping your affected arm relaxed.
+3. Do not lift your affected arm up on its own.
+4. Do not move quickly.</string>
+	<key>Table Abduction</key>
+	<string>1. Sit upright.
+2. Slide forearm sideways along table as you bend from waist.
+3. Feel a gentle stretch in the shoulder.
+4. Do not move quickly.
+5. You should not feel any sharp pain.</string>
+	<key>Table External Rotation</key>
+	<string>1. Sit upright.
+2. Bend forward at the waist keeping forearm on the table.
+3. Feel a gentle stretch in the shoulder.
+4. Do not move quickly.
+5. You should not feel any sharp pain.</string>
+	<key>Table Flexion</key>
+	<string>1. Sit upright.
+2. Slide forearm forward along table as you bend from waist .
+3. Feel a gentle stretch in the shoulder.
+4. Return slowly.
+5. Do not move quickly.
+6. You should not feel any sharp pain.</string>
+	<key>Tandem Stance</key>
+	<string>1. Stand with one foot in front of the other, heel touching toe.
+2. Hold on for balance only if needed.
+3. Do not fall over.</string>
+	<key>Tennis Elbow Stretch</key>
+	<string>1. Bend your arm at the elbow and turn palm outwards.
+2. Keep arm tucked into your chest.
+3. Push down on your hand, creating a stretch on top of the forearm.
+4. Do not stretch to the point of pain.</string>
+	<key>Terminal Knee Extension</key>
+	<string>1. Fix theraband in door at knee level.
+2. Loop the theraband around the back of your knee.
+3. Have a slight bend in the hip and the knee to start.
+4. Your heel can be off the ground.
+5. Straighten your knee back into extension.
+6. Do not hyperextend your knee.
+7. Do not rock back and forth or lean forward.
+8. Do not bend opposite knee.</string>
+	<key>Thoracic Extension over Chair</key>
+	<string>1. Sit with good posture.
+2. Interlock fingers behind your head or rest your arms on a pillow in your lap.
+3. Lean backwards over top of chair.
+4. Do not overextend or extend to the point of pain.</string>
+	<key>Thoracic Extension over Towel Roll or Foam Roller</key>
+	<string>1. Interlock fingers behind your head.
+2. Place towel roll or foam roller on the floor either lengthwise or crosswise.
+3. Relax your thoracic spine and breathe, creating a stretch.
+4. Do not overextend or extend to the point of pain.</string>
+	<key>Tib Posterior Tibialis Arch Pick-Ups</key>
+	<string>1. Sit in a chair and squeeze a towel roll between your knees.
+2. &apos;Pick up&apos; your arches, keeping your toes and heels on the ground, especially your big toe.
+3. Do not lift your toes off the floor.
+4. Do not turn feel so that soles are facing one another.
+5. Do not allow knees to come apart.</string>
+	<key>Tibialis Anterior Strengthening</key>
+	<string>1. Sit in a chair.
+2. Flex (curl) your toes.
+3. Keep your toes curled and flex your feet up towards your knees.
+4. Keep your heels on the ground.
+5. Return slowly.
+6. Do not uncurl your toes during this exercise.
+7. Do not experience any pain with this exercise.</string>
+	<key>Toe Raises</key>
+	<string>1. Hold on for balance.
+2. Raise toes up off floor, rocking back slightly on heels.
+3. Return slowly.
+4. Do not lean forward at the waist.</string>
+	<key>Towel Gather</key>
+	<string>1. Sit in a chair on a non-carpeted floor with a towel under your foot.
+2. Gather towel under your foot with a grasping motion of your toes.
+3. You can progress by adding a weight at the end of the towel.
+4. Do not move at the knee or the hip.</string>
+	<key>Towel Stretch IR/ext</key>
+	<string>1. Hold a towel behind your back, with your involved arm on the bottom.
+2. Slowly elevate your hand by pulling up with your uninvolved arm.
+3. Hold at your maximum then relax and return to the starting position.</string>
+	<key>Transverse Abdominus</key>
+	<string>1. Place fingers inside your hip bone.
+2. Tighten up lower belly to pull in about 1/4 to 1/2 inch.
+3. You should feel a muscle contraction by your hip bone, without much contraction under your ribs.
+4. Practise holding this contraction for longer and longer each time.
+5. Do not hold your breath.
+6. Do not tip your pelvis forwards or backwards.
+7. Do not &apos;suck in your tummy&apos;.
+8. Do not flex up at the trunk.</string>
+	<key>Triceps Isotonic Supine</key>
+	<string>1. Lie on your back with you elbow bent at 90 degrees.
+2. Keeping upper arm stable, straighten the elbow.
+3. Return in a slow and controlled manner.
+4. Do not hyperextend your elbow, or lock your elbow.</string>
+	<key>Triceps Kickback</key>
+	<string>1. Lean over the back of a chair or countertop.
+2. Start with elbow tucked right into your side.
+3. Extend elbow, flexing the triceps.
+4. Return in a slow and controlled manner.
+5. Do not move elbow away from your side.
+6. Do not move balistically.</string>
+	<key>Ulnar Deviation</key>
+	<string>1. Stand with arm by your side and thumb facing forward.
+2. Bend at the wrist bringing your baby finger up towards the ceiling.
+3. Return slowly.
+4. Do not move balistically or rapidly.</string>
+	<key>Ulnar Deviation with Exercise Band</key>
+	<string>1. Stand with arm by your side and thumb facing forward.
+2. Bend at the wrist bringing your baby finger up towards the ceiling.
+3. Return slowly.
+4. Fix exercise band underneath your foot and hold the opposite end with your hand.
+5. Do not move balistically or rapidly.</string>
+	<key>Ulnar Nerve Floss</key>
+	<string>1. Position arm as demonstrated.
+2. Wave your back and forth.
+3. Straighten your elbow if you are experiencing any pain.
+4. Do not create any pain or symptoms in the arm at any time.</string>
+	<key>Unilateral Pectoralis Stretch</key>
+	<string>1. Place fingertips to shoulder on wall, keeping your elbow straight.
+2. Turn away from the wall creating a stretch in your chest.
+3. Do not overstretch.
+4. Do not stretch to the point of pain.</string>
+	<key>Upper Cervical Extension Isometric</key>
+	<string>1. Use your hands to try and tilt the chin towards the throat.
+2. Resist the motion and keep the head perfectly still.
+3. Release slowly.
+4. Lie on your back, place your fingers of both hands behind the head and the thumbs resting on the cheekbones.
+5. Do not allow the head to move.
+6. Do not strain.</string>
+	<key>Upper Cervical Extension with Middle Cervical Stabilization</key>
+	<string>1. Keep your shoulders relaxed.
+2. Place your middle finger at the base of your skull where it meets your neck and your index finger on the base of your neck where it meets your thoracic spine.
+3. Sit in a chair with good posture and let your chin drop towards the throat.
+4. Slowly lift your chin upwards moving only at the base of your skull.
+5. Return to the start position.
+6. Your middle finger should move backwards.
+7. Do not experience any pain.
+8. Do not allow your index finger to move.</string>
+	<key>Upper Cervical Extension with UE Weightbearing</key>
+	<string>1. Stand with neutral spine, leaning slightly forward, with hands on the table.
+2. Slowly lift the back of the head upwards, bringing your chin towards your chest.
+3. Return slowly.
+4. Don&apos;t let the head or chin poke forward.
+5. Don&apos;t let the shoulders move at all or the jaw tighten up or poke forward.</string>
+	<key>Upper Cervical Stabilization in Weightbearing</key>
+	<string>1. Lie on the floor as shown with your head in a neutral position.
+2. Keeping the head and shoulders in neutral tilt your head to one side, moving only at the base of the skull.
+3. Return to start position.
+4. Do not move at the base of NECK, only at the base of thhe HEAD.
+5. Do not hold at the point at which strain is felt. Move slowly and do not stretch.</string>
+	<key>Upper Trapezius Stretch</key>
+	<string>1. Sitting in a chair or standing with shoulders down and back and chest up, bring you ear towards your shoulder, creating a stretch in your upper shoulder.
+2. Return slowly.
+3. Work only in pain free range of motion.
+4. Do not apply overpressure.
+5. Do not experience any pain.</string>
+	<key>VMO Isometric Standing</key>
+	<string>1. Standing against a wall with feet hip distance apart and knees slightly bent.
+2. Place a ball between your knees.
+3. Squeeze the ball between your knees and release.
+4. Do not allow knees to come together past midline.</string>
+	<key>Wall Climb Flexion</key>
+	<string>1. Stand close to the wall.
+2. Place hand on the wall and climb up slowly until you feel a gentle stretch.
+3. Do not move quickly.
+4. There should not be any sharp pain.</string>
+	<key>Wall External Rotation</key>
+	<string>1. Stand in a doorway with your hand on the wall as shown.
+2. Turn towards the opposite side.
+3. If you are stretching the left shoulder, turn right.
+4. Do not allow your elbow to come away from your trunk.
+5. There should not be any sharp pain.</string>
+	<key>Wall ITB Stretch</key>
+	<string>1. Lie on your back.
+2. Place sole of foot against the wall.
+3. Start with knee slightly bent.
+4. Slowly straighten your knee.
+5. Feel a stretch on the outside of your thigh and knee.
+6. Do not bounce into the stretch.</string>
+	<key>Wall Posterior Capsule Stretch</key>
+	<string>1. Fix shoulder blade on the wall by leaning back onto it.
+2. Keep elbow flexed to 90 degrees and arm up to 90 degrees.
+3. Push down on your forearm with your opposite hand.
+4. Do not push to the point of sharp pain.</string>
+	<key>Wall Sits</key>
+	<string>1. Have your feet out in front of you and your back against the wall.
+2. Bend at the knees and slide down the wall.
+3. Return slowly.
+4. Do not bend knees over 90 degrees.
+5. Do not let kneecaps extend over your toes.</string>
+	<key>Wall Sits with Ball</key>
+	<string>1. Start with ball in the small of your back.
+2. Have your feet out in front of you.
+3. Bend at the knees as you roll with the ball down the wall.
+4. Return slowly.
+5. Do not bend knees over 90 degrees.
+6. Do not let kneecaps extend over your toes.</string>
+	<key>Wall ball</key>
+	<string>1. Start with arm at shoulder level.
+2. Press lightly into the ball with the heel of your hand.
+3. Have elbow straight, but not locked.
+4. Oscillate the ball up and down/side to side/circles (CW and CCW).
+5. Keep shoulder blades down and together.
+6. Do not move the ball in large ranges of motion.
+7. Do not use a large ball or a medicine ball.</string>
+	<key>Wall climb abduction</key>
+	<string>1. Stand close to the wall.
+2. Climb slowly up the wall until you feel a gentle stretch in the shoulder.
+3. Turn your body to the opposite side.
+4. Do not move quickly.
+5. There should not be any sharp pain.</string>
+	<key>Wall pushup</key>
+	<string>1. Have arms at shoulder level and feet and hands shoulder width apart.
+2. Perform a push-up on the wall, leading with your forehead.
+3. Keep shoulder blades down and together.
+4. Keep your hands on the wall throughout the exercise.
+5. Do not lead with your chin.</string>
+	<key>Wrist Extension - Eccentric</key>
+	<string>1. Sit with forearm supported on a table or on your lap.
+2. With palm facing down, bring your hand up towards you, extending at the wrist.
+3. Do not move balistically or rapidly.</string>
+	<key>Wrist Flexion</key>
+	<string>1. Sit with forearm supported on a table or on your lap.
+2. With palm facing up, bring your hand up towards you, flexing at the wrist.
+3. Do not move balistically or rapidly.</string>
+</dict>
+</plist>
