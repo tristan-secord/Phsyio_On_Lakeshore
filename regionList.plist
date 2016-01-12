@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>90/90 Rest Position Lumbar Spine</key>
+	<string>Spine</string>
+	<key>AAROM Elbow Flexion</key>
+	<string>Biceps</string>
+	<key>AAROM Flexion Prone</key>
+	<string>Knee</string>
+	<key>AAROM Internal Rotation/Extension</key>
+	<string>Shoulder</string>
+	<key>AAROM Knee Flexion on Wall</key>
+	<string>Knee</string>
+	<key>AAROM Seated Flexion</key>
+	<string>Knee</string>
+	<key>AAROM flexion</key>
+	<string>Shoulder</string>
+	<key>AROM Ankle Dorsiflexion</key>
+	<string>Ankle</string>
+	<key>AROM Ankle Eversion</key>
+	<string>Ankle</string>
+	<key>AROM Ankle Inversion</key>
+	<string>Ankle</string>
+	<key>AROM Ankle Plantar Flexion</key>
+	<string>Ankle</string>
+	<key>AROM Cervical Extension</key>
+	<string>Neck</string>
+	<key>AROM Cervical Flexion</key>
+	<string>Neck</string>
+	<key>AROM Cervical Rotation</key>
+	<string>Neck</string>
+	<key>AROM Cervical SideBending</key>
+	<string>Neck</string>
+	<key>Abdominal Stabilization 1</key>
+	<string>Core</string>
+	<key>Abdominal Stabilization 2</key>
+	<string>Core</string>
+	<key>Abdominal Stabilization 3</key>
+	<string>Core</string>
+	<key>Abdominal Stabilization 4</key>
+	<string>Core</string>
+	<key>Abdominal Stabilization 5</key>
+	<string>Core</string>
+	<key>Abdominal Stabilization 6</key>
+	<string>Core</string>
+	<key>Abdominal Stabilization 7</key>
+	<string>Core</string>
+	<key>Abdominal Stabilization Heel Slides</key>
+	<string>Core</string>
+	<key>Abdominal Stretch</key>
+	<string>Core</string>
+	<key>Abductor Squats</key>
+	<string>Hips</string>
+	<key>Adductor Butterfly Stretch</key>
+	<string>Hips</string>
+	<key>Ankle Dorsiflexion Isometric</key>
+	<string>Ankle</string>
+	<key>Ankle Eversion Isometric</key>
+	<string>Ankle</string>
+	<key>Ankle Inversion Isometric</key>
+	<string>Ankle</string>
+	<key>Ankle Plantar Flexion Isometric</key>
+	<string>Ankle</string>
+	<key>Ankle Towel Stretch</key>
+	<string>Ankle</string>
+	<key>Anterior Ankle Stretch</key>
+	<string>Ankle</string>
+	<key>Anterior Cervical Strengthening</key>
+	<string>Neck</string>
+	<key>Anterior Cervical Strengthening Supine</key>
+	<string>Neck</string>
+	<key>Anterior Cervical Strengthening with Rotation</key>
+	<string>Neck</string>
+	<key>Anterior Neck Strengthening</key>
+	<string>Neck</string>
+	<key>Ball Lunges</key>
+	<string>Core</string>
+	<key>Ball Stabilization - Abdominal Crunches</key>
+	<string>Core</string>
+	<key>Ball Stabilization - Alternate Lower Extremity Step</key>
+	<string>Core</string>
+	<key>Ball Stabilization - Lean Back</key>
+	<string>Core</string>
+	<key>Ball Stabilization - Prayer Exercise</key>
+	<string>Core</string>
+	<key>Ball Stabilization - Prone Hip Extension</key>
+	<string>Core</string>
+	<key>Ball Stabilization - Prone Lumbar Extension</key>
+	<string>Core</string>
+	<key>Ball Stabilization - Seated Alternate Arm Raise</key>
+	<string>Core</string>
+	<key>Ball Stabilization - Seated Opposite Arm and Leg</key>
+	<string>Core</string>
+	<key>Ball Stabilization - Supine Alternate Leg Lift</key>
+	<string>Core</string>
+	<key>Ball Stabilization - Walkouts</key>
+	<string>Core</string>
+	<key>Bent Over Row</key>
+	<string>Shoulder</string>
+	<key>Biceps Curl</key>
+	<string>Biceps</string>
+	<key>Bilateral Heel Raise on Step</key>
+	<string>Calves</string>
+	<key>Bilateral Pectoralis Stretch</key>
+	<string>Chest</string>
+	<key>Braiding</key>
+	<string>Hips</string>
+	<key>Bridging</key>
+	<string>Core</string>
+	<key>Bridging on Ball</key>
+	<string>Core</string>
+	<key>Bridging with Step</key>
+	<string>Core</string>
+	<key>Bridging with Straight Leg Raise</key>
+	<string>Core</string>
+	<key>Cat/Cow Stretch</key>
+	<string>Spine</string>
+	<key>Cervical Eye Exercises - Contralateral</key>
+	<string>Neck</string>
+	<key>Cervical Eye Exercises - Ipsilateral</key>
+	<string>Neck</string>
+	<key>Cervical Isometric - Extension</key>
+	<string>Neck</string>
+	<key>Cervical Isometric - Flexion</key>
+	<string>Neck</string>
+	<key>Cervical Isometric - Rotation</key>
+	<string>Neck</string>
+	<key>Cervical Isometric - Sidebending</key>
+	<string>Neck</string>
+	<key>Cervical Retraction</key>
+	<string>Neck</string>
+	<key>Cervical Retraction - Supine</key>
+	<string>Neck</string>
+	<key>Cervical Segmental Isometric</key>
+	<string>Neck</string>
+	<key>Cervical Segmental Rotation</key>
+	<string>Neck</string>
+	<key>Cervical Stabilization - Rotation</key>
+	<string>Neck</string>
+	<key>Cervical Stabilization - Seated Extension</key>
+	<string>Neck</string>
+	<key>Cervical Stabilization - Seated Rotation</key>
+	<string>Neck</string>
+	<key>Chest Press/Horizontal Adduction</key>
+	<string>Chest</string>
+	<key>Codmans/Pendular Exercises</key>
+	<string>Shoulder</string>
+	<key>Common Extensor Tendon Stretch</key>
+	<string>Elbow</string>
+	<key>Common Extensor Tendon Stretch - Ulnar Deviation Bias</key>
+	<string>Elbow</string>
+	<key>Common Flexor Tendon Stretch</key>
+	<string>Elbow</string>
+	<key>Cone Walk</key>
+	<string>Hips</string>
+	<key>Double Knees to Chest</key>
+	<string>Spine</string>
+	<key>Eccentric Gastrocnemius Strengthening</key>
+	<string>Legs</string>
+	<key>Eccentric Wrist Extension</key>
+	<string>Wrist</string>
+	<key>Edema Control Positioning</key>
+	<string>Legs</string>
+	<key>Elbow AROM</key>
+	<string>Elbow</string>
+	<key>Exercise Band Ankle Dorsiflexion</key>
+	<string>Ankle</string>
+	<key>Exercise Band Ankle Eversion</key>
+	<string>Ankle</string>
+	<key>Exercise Band Ankle Inversion</key>
+	<string>Ankle</string>
+	<key>Exercise Band Ankle Plantar Flexion</key>
+	<string>Ankle</string>
+	<key>Exercise Band Balance Drill - Extension</key>
+	<string>Legs</string>
+	<key>Exercise Band Balance Drill - Flexion</key>
+	<string>Legs</string>
+	<key>Exercise Band Elbow Extension</key>
+	<string>Elbow</string>
+	<key>Exercise Band Elbow Flexion</key>
+	<string>Elbow</string>
+	<key>Exercise Band External Rotation Seated</key>
+	<string>Shoulder</string>
+	<key>Exercise Band Flexion</key>
+	<string>Shoulder</string>
+	<key>Exercise Band Hip Abduction</key>
+	<string>Hips</string>
+	<key>Exercise Band Hip Adduction</key>
+	<string>Hips</string>
+	<key>Exercise Band Hip Adduction - Supine</key>
+	<string>Hips</string>
+	<key>Exercise Band Hip Extension</key>
+	<string>Hips</string>
+	<key>Exercise Band Hip Flexion</key>
+	<string>Hips</string>
+	<key>Exercise Band Lat Pulldowns</key>
+	<string>Back</string>
+	<key>Exercise Band Pronation</key>
+	<string>Forearms</string>
+	<key>Exercise Band Scapular Rows</key>
+	<string>Back</string>
+	<key>Exercise Band Shoulder Abduction</key>
+	<string>Shoulder</string>
+	<key>Exercise Band Shoulder Adduction</key>
+	<string>Shoulder</string>
+	<key>Exercise Band Shoulder Extension</key>
+	<string>Shoulder</string>
+	<key>Exercise Band Supination</key>
+	<string>Forearms</string>
+	<key>Exercise Band Walking Backward</key>
+	<string>Legs</string>
+	<key>Exercise Band Walking Forward</key>
+	<string>Legs</string>
+	<key>Exercise Band Wrist Extension</key>
+	<string>Wrist</string>
+	<key>Exercise Band Wrist Flexion</key>
+	<string>Wrist</string>
+	<key>Extension Isotonic</key>
+	<string>Shoulder</string>
+	<key>External Rotation with Exercise Band</key>
+	<string>Shoulder</string>
+	<key>External Rotation/Abduction Stretch</key>
+	<string>Shoulder</string>
+	<key>Flexor Tendon Stretch</key>
+	<string>Wrist</string>
+	<key>Forward Step down</key>
+	<string>Legs</string>
+	<key>Four Point Alternate Arm Raise</key>
+	<string>Core</string>
+	<key>Four Point Alternate Arm and Leg Raise</key>
+	<string>Core</string>
+	<key>Four Point Alternate Leg Raise</key>
+	<string>Core</string>
+	<key>Four Point Shoulder Proprioception</key>
+	<string>Shoulder</string>
+	<key>Four Point Stabilization</key>
+	<string>Core</string>
+	<key>Four Point Trunk Rotation</key>
+	<string>Spine</string>
+	<key>Gait Training - Push-Off</key>
+	<string>Gluteus</string>
+	<key>Gastrocnemius Stretch</key>
+	<string>Gluteus</string>
+	<key>Gastrocnemius Stretch Off Step</key>
+	<string>Gluteus</string>
+	<key>Gastrocnemius Stretch On Wall</key>
+	<string>Gluteus</string>
+	<key>Glut Max Retraining</key>
+	<string>Gluteus</string>
+	<key>Glut Set</key>
+	<string>Gluteus</string>
+	<key>Gluteus Medius 1</key>
+	<string>Gluteus</string>
+	<key>Gluteus Medius 2</key>
+	<string>Gluteus</string>
+	<key>Gluteus Medius 3</key>
+	<string>Gluteus</string>
+	<key>Gravity Assisted Elbow Extension</key>
+	<string>Elbow</string>
+	<key>Great Toe Extension Strength</key>
+	<string>Feet</string>
+	<key>Great Toe Extension Stretch</key>
+	<string>Feet</string>
+	<key>Gripping</key>
+	<string>Forearms</string>
+	<key>Hammer Curl</key>
+	<string>Biceps</string>
+	<key>Hamstring Curl on Ball</key>
+	<string>Legs</string>
+	<key>Hamstring Set</key>
+	<string>Legs</string>
+	<key>Hamstring Stretch - Hurdle Style</key>
+	<string>Legs</string>
+	<key>Hamstring Stretch Supine</key>
+	<string>Legs</string>
+	<key>Hamstring Stretch on Step</key>
+	<string>Legs</string>
+	<key>Hamstring Stretch on Wall</key>
+	<string>Legs</string>
+	<key>Heel Raises - Single Leg</key>
+	<string>Legs</string>
+	<key>Heel Raises - two-legged</key>
+	<string>Legs</string>
+	<key>Heel Slides</key>
+	<string>Knee</string>
+	<key>Heel Walking</key>
+	<string>Core</string>
+	<key>Heelslides with towel</key>
+	<string>Knee</string>
+	<key>Hip Abduction Isometric</key>
+	<string>Hips</string>
+	<key>Hip Adduction Isometric</key>
+	<string>Hips</string>
+	<key>Hip Adduction Isometric Seated</key>
+	<string>Hips</string>
+	<key>Hip External Rotation Stretch</key>
+	<string>Hips</string>
+	<key>Hip Flexion Isometric</key>
+	<string>Hips</string>
+	<key>Hip Flexor Stretch - Thomas Stretch</key>
+	<string>Hips</string>
+	<key>Hip Flexor/Quad Stretch</key>
+	<string>Hips</string>
+	<key>Horizontal Abduction Isotonic</key>
+	<string>Shoulder</string>
+	<key>Iliotibial Band Release - foam roller</key>
+	<string>Knee</string>
+	<key>Iliotibial Band Stretch Sidelying</key>
+	<string>Hips</string>
+	<key>Inferior Capsule Stretch</key>
+	<string>Hips</string>
+	<key>Internal Rotation at 90/90 with Exercise Band</key>
+	<string>Shoulder</string>
+	<key>Internal Rotation with Exercise Band</key>
+	<string>Shoulder</string>
+	<key>Internal Rotation/Extension AAROM</key>
+	<string>Shoulder</string>
+	<key>Jar Roll</key>
+	<string>Legs</string>
+	<key>Knee Extension Stretch Supine</key>
+	<string>Knee</string>
+	<key>Kneeling Hip Flexor Stretch</key>
+	<string>Hips</string>
+	<key>Lateral Flexion Stretch</key>
+	<string>Core</string>
+	<key>Lateral Step Down</key>
+	<string>Legs</string>
+	<key>Levator Scapulae Stretch</key>
+	<string>Spine</string>
+	<key>Long Arc Quad</key>
+	<string>Legs</string>
+	<key>Lower Cervical Extension with Upper Stabilization</key>
+	<string>Neck</string>
+	<key>Lower Cervical Extension with Upper Stabilization - Prone</key>
+	<string>Neck</string>
+	<key>Lower Cervical Flexion with Thoracic Stabilization</key>
+	<string>Neck</string>
+	<key>Lower Cervical Flexion with Upper Cervical Stabilization</key>
+	<string>Neck</string>
+	<key>Lower Trunk Rotation</key>
+	<string>Core</string>
+	<key>Lower Trunk Rotation Table Top</key>
+	<string>Core</string>
+	<key>Lumbar Extension Isometric</key>
+	<string>Spine</string>
+	<key>Lumbar Rotation</key>
+	<string>Spine</string>
+	<key>Lumbar Stretch</key>
+	<string>Spine</string>
+	<key>Lumbar Traction over Table</key>
+	<string>Spine</string>
+	<key>Lunges</key>
+	<string>Legs</string>
+	<key>Lunges with Exercise Band</key>
+	<string>Legs</string>
+	<key>Monster Walks</key>
+	<string>Hips</string>
+	<key>PNF Exercise Band</key>
+	<string>Core</string>
+	<key>PNF Exercise Band - on Ball</key>
+	<string>Core</string>
+	<key>PNF Exercise Band - one handed</key>
+	<string>Core</string>
+	<key>PNF Exercise Band - one handed on Ball</key>
+	<string>Core</string>
+	<key>Pilates Spine Rotation</key>
+	<string>Spine</string>
+	<key>Piriformis Stretch</key>
+	<string>Hips</string>
+	<key>Plank</key>
+	<string>Core</string>
+	<key>Plank - Arm Lift</key>
+	<string>Core</string>
+	<key>Plank - Arm and Leg Lift</key>
+	<string>Core</string>
+	<key>Plank - Leg Lift</key>
+	<string>Core</string>
+	<key>Plantar Fascia Stretch</key>
+	<string>Foot</string>
+	<key>Posterior Capsule Stretch</key>
+	<string>Shoulder</string>
+	<key>Pretzel Stretch</key>
+	<string>Gluteus</string>
+	<key>Pronation and Supination</key>
+	<string>Forearms</string>
+	<key>Prone Ball Stabilization - Alternate Arm</key>
+	<string>Core</string>
+	<key>Prone Ball Stabilization - Alternate Arm and Leg</key>
+	<string>Core</string>
+	<key>Prone Ball Stabilization - Alternate Leg</key>
+	<string>Core</string>
+	<key>Prone Ball Stabilization - Ipsilateral Arm and Leg</key>
+	<string>Core</string>
+	<key>Prone Cervical Retraction</key>
+	<string>Neck</string>
+	<key>Prone Cervical Stabilization</key>
+	<string>Neck</string>
+	<key>Prone Cervical Stabilization with Rotation 1</key>
+	<string>Neck</string>
+	<key>Prone Cervical Stabilization with Rotation 2</key>
+	<string>Neck</string>
+	<key>Prone Extension</key>
+	<string>Spine</string>
+	<key>Prone Extension Shoulder Flexion</key>
+	<string>Shoulder</string>
+	<key>Prone External Rotation</key>
+	<string>Shoulder</string>
+	<key>Prone Hamstring Curl</key>
+	<string>Legs</string>
+	<key>Prone Hip Extension Abduction</key>
+	<string>Hips</string>
+	<key>Prone Hip Internal and External Rotation</key>
+	<string>Hips</string>
+	<key>Prone Knee Extension Stretch</key>
+	<string>Knee</string>
+	<key>Prone Lying</key>
+	<string>Spine</string>
+	<key>Prone Posterior Caspule Stretch</key>
+	<string>Shoulder</string>
+	<key>Prone Press-Up</key>
+	<string>Spine</string>
+	<key>Prone Stabilization Alternate Arm</key>
+	<string>Lower Back</string>
+	<key>Prone Stabilization Alternate Arm and Leg</key>
+	<array>
+		<string>Core</string>
+		<string>Spine</string>
+		<string>Lower Back</string>
+	</array>
+	<key>Prone Stabilization Alternate Leg</key>
+	<string>Lower Back</string>
+	<key>Prone on Elbows</key>
+	<string>Spine</string>
+	<key>Pulleys - Shoulder</key>
+	<string>Shoulder</string>
+	<key>Quad Set</key>
+	<string>Quadriceps</string>
+	<key>Radial Deviation</key>
+	<string>Forearms</string>
+	<key>Radial Deviation with Exercise Band</key>
+	<string>Forearms</string>
+	<key>Reverse Codmans</key>
+	<string>Shoulder</string>
+	<key>Reverse Curl</key>
+	<string>Biceps</string>
+	<key>Reverse Plank</key>
+	<string>Back</string>
+	<key>Rhomboid Stretch</key>
+	<string>Shoulder</string>
+	<key>Roll Over Plank</key>
+	<string>Core</string>
+	<key>SLABIR</key>
+	<string>Shoulder</string>
+	<key>Sahrmann abduction on wall</key>
+	<string>Shoulder</string>
+	<key>Scalene Stretch</key>
+	<string>Neck</string>
+	<key>Scalene/Sternocleidomastoid Stretch</key>
+	<string>Neck</string>
+	<key>Scapular Retraction and Depression</key>
+	<string>Shoulder</string>
+	<key>Scapular Stabilization - Is</key>
+	<array>
+		<string>Shoulder</string>
+		<string>Back</string>
+	</array>
+	<key>Scapular Stabilization - Ts</key>
+	<array>
+		<string>Shoulder</string>
+		<string>Back</string>
+	</array>
+	<key>Scapular Stabilization - Ys</key>
+	<array>
+		<string>Shoulder</string>
+		<string>Back</string>
+	</array>
+	<key>Seated Anterior Cervical Strengthening</key>
+	<string>Neck</string>
+	<key>Seated Anterior Cervical Strengthening Against Wall</key>
+	<string>Neck</string>
+	<key>Seated Cervical Stabilization</key>
+	<string>Neck</string>
+	<key>Seated Exercise Band Hamstring Curl</key>
+	<string>Hamstring</string>
+	<key>Seated Heel Raises</key>
+	<string>Calves</string>
+	<key>Seated Hip Flexion</key>
+	<string>Hips</string>
+	<key>Seated Internal and External Rotation</key>
+	<string>Hips</string>
+	<key>Seated Lumbar Flexion</key>
+	<array>
+		<string>Spine</string>
+		<string>Lower Back</string>
+	</array>
+	<key>Seated Piriformis Stretch</key>
+	<string>Gluteus</string>
+	<key>Seated Posture</key>
+	<string>Spine</string>
+	<key>Seated Quad Sets</key>
+	<string>Quadriceps</string>
+	<key>Seated Scapular Depression</key>
+	<array>
+		<string>Shoulder</string>
+		<string>Back</string>
+	</array>
+	<key>Seated Thoracic Rotation</key>
+	<string>Spine</string>
+	<key>Seated Thoracic Rotation 2</key>
+	<string>Spine</string>
+	<key>Seated Trunk Rotation with Exercise Band</key>
+	<string>Core</string>
+	<key>Self Lumbar Traction</key>
+	<string>Spine</string>
+	<key>Serratus Punch</key>
+	<string>Shoulder</string>
+	<key>Short Arc Quad</key>
+	<string>Quadriceps</string>
+	<key>Shoulder Abduction Isometric</key>
+	<string>Shoulder</string>
+	<key>Shoulder Abduction Isotonic</key>
+	<string>Shoulder</string>
+	<key>Shoulder Adduction Isometric</key>
+	<string>Shoulder</string>
+	<key>Shoulder Empty Can Isotonic</key>
+	<string>Shoulder</string>
+	<key>Shoulder Extension Isometric</key>
+	<string>Shoulder</string>
+	<key>Shoulder External Rotation Isometric</key>
+	<string>Shoulder</string>
+	<key>Shoulder Flexion Isometric</key>
+	<string>Shoulder</string>
+	<key>Shoulder Flexion Isotonic</key>
+	<string>Shoulder</string>
+	<key>Shoulder Internal Rotation Isometric</key>
+	<string>Shoulder</string>
+	<key>Shoulder Scaption Isotonic</key>
+	<string>Shoulder</string>
+	<key>Side Lie Flexion</key>
+	<string>Shoulder</string>
+	<key>Side Plank</key>
+	<string>Core</string>
+	<key>Side Plank Arm Raise</key>
+	<string>Core</string>
+	<key>Side Plank Arm and Leg Raise</key>
+	<string>Core</string>
+	<key>Side Plank Leg Raise</key>
+	<string>Core</string>
+	<key>Side lie Abduction</key>
+	<string>Shoulder</string>
+	<key>Sidelying External Rotation</key>
+	<string>Shoulder</string>
+	<key>Sidelying Hip Abduction on Ball</key>
+	<string>Hips</string>
+	<key>Sidelying Internal Rotation</key>
+	<string>Shoulder</string>
+	<key>Sidelying Quad Stretch</key>
+	<string>Quadriceps</string>
+	<key>Single Heel Raise on Step</key>
+	<string>Calves</string>
+	<key>Single Knee to Chest - leg bent</key>
+	<string>Spine</string>
+	<key>Single Knee to Chest - leg straight</key>
+	<string>Spine</string>
+	<key>Sitting Posture with Lumbar Roll</key>
+	<string>Spine</string>
+	<key>Soleus Stretch</key>
+	<string>Calves</string>
+	<key>Squat with Exercise Band</key>
+	<array>
+		<string>Qadriceps</string>
+		<string>Gluteus</string>
+	</array>
+	<key>Squats</key>
+	<array>
+		<string>Quadriceps</string>
+		<string>Gluteus</string>
+	</array>
+	<key>Stabilization Against Gravity</key>
+	<string>Neck</string>
+	<key>Standing AA Flexion</key>
+	<string>Shoulder</string>
+	<key>Standing Abdominal Stabilization</key>
+	<array>
+		<string>Core</string>
+		<string>Spine</string>
+	</array>
+	<key>Standing Extension</key>
+	<string>Spine</string>
+	<key>Standing Hamstring Curl</key>
+	<array>
+		<string>Hamstring</string>
+		<string>Knee</string>
+	</array>
+	<key>Standing Hip Flexion/Extension</key>
+	<string>Hips</string>
+	<key>Standing Hip Internal External Rotation</key>
+	<string>Hips</string>
+	<key>Standing Iliotibial Band Stretch</key>
+	<string>Hips</string>
+	<key>Standing Posterior Capsule Stretch</key>
+	<string>Shoulder</string>
+	<key>Standing Quad Stretch</key>
+	<string>Quadriceps</string>
+	<key>Standing Staight Leg Raise Flexion</key>
+	<array>
+		<string>Quadriceps</string>
+		<string>Knee</string>
+	</array>
+	<key>Standing Straight Leg Raise Extension</key>
+	<array>
+		<string>Hamstring</string>
+		<string>Gluteus</string>
+	</array>
+	<key>Standing Straight Leg Raise abduction</key>
+	<string>Hips</string>
+	<key>Standing Straight Leg Raise adduction</key>
+	<string>Hips</string>
+	<key>Standing Wand Abduction</key>
+	<string>Shoulder</string>
+	<key>Standing Wand Extension</key>
+	<string>Shoulder</string>
+	<key>Standing Wand Flexion</key>
+	<string>Shoulder</string>
+	<key>Standing Wand Internal Rotation/Extension</key>
+	<string>Shoulder</string>
+	<key>Step Up</key>
+	<array>
+		<string>Quadriceps</string>
+		<string>Gluteus</string>
+	</array>
+	<key>Stool Scoots</key>
+	<array>
+		<string>Hamstring</string>
+		<string>Gluteus</string>
+		<string>Knee</string>
+	</array>
+	<key>Straight Leg Raise Abduction</key>
+	<string>Hips</string>
+	<key>Straight Leg Raise Extension</key>
+	<array>
+		<string>Hamstring</string>
+		<string>Gluteus</string>
+	</array>
+	<key>Straight Leg Raise Flexion 1</key>
+	<string>Quadriceps</string>
+	<key>Straight Leg Raise adduction</key>
+	<string>Hips</string>
+	<key>Suboccipital Release</key>
+	<array>
+		<string>Neck</string>
+		<string>Spine</string>
+	</array>
+	<key>Suboccipital Stretch</key>
+	<array>
+		<string>Neck</string>
+		<string>Spine</string>
+	</array>
+	<key>Subocciptal Stretch and Upper Cervical Traction</key>
+	<string>Neck</string>
+	<key>Subscapularis Wings</key>
+	<string>Shoulder</string>
+	<key>Supine Flexion</key>
+	<string>Shoulder</string>
+	<key>Supine Internal Rotation and External Rotation</key>
+	<string>Shoulder</string>
+	<key>Supine Punch</key>
+	<string>Shoulder</string>
+	<key>Supine Rest Position</key>
+	<string>Lower Back</string>
+	<key>Supine Wand External Rotation</key>
+	<string>Shoulder</string>
+	<key>Supine Wand Flexion</key>
+	<string>Shoulder</string>
+	<key>Table Abduction</key>
+	<string>Shoulder</string>
+	<key>Table External Rotation</key>
+	<string>Shoulder</string>
+	<key>Table Flexion</key>
+	<string>Shoulder</string>
+	<key>Tennis Elbow Stretch</key>
+	<string>Elbow</string>
+	<key>Terminal Knee Extension</key>
+	<string>Knee</string>
+	<key>Thoracic Extension over Chair</key>
+	<string>Spine</string>
+	<key>Thoracic Extension over Towel Roll or Foam Roller</key>
+	<string>Spine</string>
+	<key>Tib Posterior Tibialis Arch Pick-Ups</key>
+	<string>Calves</string>
+	<key>Tibialis Anterior Strengthening</key>
+	<string>Shin</string>
+	<key>Toe Raises</key>
+	<string>Shin</string>
+	<key>Towel Gather</key>
+	<string>Foot</string>
+	<key>Triceps Isotonic Supine</key>
+	<string>Triceps</string>
+	<key>Triceps Kickback</key>
+	<string>Triceps</string>
+	<key>Ulnar Deviation</key>
+	<string>Wrist</string>
+	<key>Ulnar Deviation with Exercise Band</key>
+	<string>Wrist</string>
+	<key>Unilateral Pectoralis Stretch</key>
+	<string>Chest</string>
+	<key>Upper Cervical Extension Isometric</key>
+	<string>Neck</string>
+	<key>Upper Cervical Extension with Middle Cervical Stabilization</key>
+	<string>Neck</string>
+	<key>Upper Cervical Extension with UE Weightbearing</key>
+	<string>Neck</string>
+	<key>Upper Cervical Stabilization in Weightbearing</key>
+	<string>Neck</string>
+	<key>Upper Trapezius Stretch</key>
+	<string>Shoulder</string>
+	<key>VMO Isometric Standing</key>
+	<array>
+		<string>Gluteus</string>
+		<string>Core</string>
+	</array>
+	<key>Wall Climb Flexion</key>
+	<string>Shoulder</string>
+	<key>Wall External Rotation</key>
+	<string>Shoulder</string>
+	<key>Wall ITB Stretch</key>
+	<string>Hips</string>
+	<key>Wall Posterior Capsule Stretch</key>
+	<string>Shoulder</string>
+	<key>Wall Sits</key>
+	<array>
+		<string>Quadriceps</string>
+		<string>Gluteus</string>
+		<string>Hips</string>
+	</array>
+	<key>Wall Sits with Ball</key>
+	<array>
+		<string>Quadriceps</string>
+		<string>Gluteus</string>
+		<string>Hips</string>
+	</array>
+	<key>Wall ball</key>
+	<string>Shoulder</string>
+	<key>Wall climb abduction</key>
+	<string>Shoulder</string>
+	<key>Wall pushup</key>
+	<string>Shoulder</string>
+	<key>Wrist Extension - Eccentric</key>
+	<string>Wrist</string>
+	<key>Wrist Flexion</key>
+	<string>Wrist</string>
+</dict>
+</plist>

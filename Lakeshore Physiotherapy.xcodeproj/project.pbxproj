@@ -1,0 +1,728 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		3E0AF7D31A9BBBD200330B84 /* GoogleMaps.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E0AF7D21A9BBBD200330B84 /* GoogleMaps.framework */; };
+		3E0AF7D51A9BBBE300330B84 /* GoogleMaps.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 3E0AF7D41A9BBBE300330B84 /* GoogleMaps.bundle */; };
+		3E0AF9B31A9BBCDC00330B84 /* FacebookSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E0AF9B21A9BBCDB00330B84 /* FacebookSDK.framework */; };
+		3E0E135B1A49BCCA005AE420 /* numPics.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3E0E135A1A49BCCA005AE420 /* numPics.plist */; };
+		3E0E18AE1A49D35E005AE420 /* ExerciseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E0E18AD1A49D35E005AE420 /* ExerciseViewController.m */; };
+		3E0E18BA1A4A64BD005AE420 /* exerciseCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E0E18B91A4A64BD005AE420 /* exerciseCollectionViewCell.m */; };
+		3E2D43B3191FF66100B25AC2 /* AddFavoriteTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E2D43B2191FF66100B25AC2 /* AddFavoriteTableViewController.m */; };
+		3E38FAC919B3C6E0009ABF98 /* regionList.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3E38FAC819B3C6E0009ABF98 /* regionList.plist */; };
+		3E38FACC19B497B7009ABF98 /* MakeAppt.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E38FACB19B497B7009ABF98 /* MakeAppt.m */; };
+		3E3D430119187C1C005EE687 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E3D430019187C1C005EE687 /* Foundation.framework */; };
+		3E3D430319187C1C005EE687 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E3D430219187C1C005EE687 /* CoreGraphics.framework */; };
+		3E3D430519187C1C005EE687 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E3D430419187C1C005EE687 /* UIKit.framework */; };
+		3E3D430B19187C1C005EE687 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 3E3D430919187C1C005EE687 /* InfoPlist.strings */; };
+		3E3D430D19187C1C005EE687 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E3D430C19187C1C005EE687 /* main.m */; };
+		3E3D431119187C1C005EE687 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E3D431019187C1C005EE687 /* AppDelegate.m */; };
+		3E3D431919187C1C005EE687 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3E3D431819187C1C005EE687 /* Images.xcassets */; };
+		3E3D432019187C1C005EE687 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E3D431F19187C1C005EE687 /* XCTest.framework */; };
+		3E3D432119187C1C005EE687 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E3D430019187C1C005EE687 /* Foundation.framework */; };
+		3E3D432219187C1C005EE687 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E3D430419187C1C005EE687 /* UIKit.framework */; };
+		3E3D432A19187C1C005EE687 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 3E3D432819187C1C005EE687 /* InfoPlist.strings */; };
+		3E3D432C19187C1C005EE687 /* Lakeshore_PhysiotherapyTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E3D432B19187C1C005EE687 /* Lakeshore_PhysiotherapyTests.m */; };
+		3E3D433719187D8B005EE687 /* ExerciseTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E3D433619187D8B005EE687 /* ExerciseTableViewController.m */; };
+		3E464C051AA6C37F001FFD31 /* ExerciseList.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3E464C041AA6C37F001FFD31 /* ExerciseList.plist */; };
+		3E4BAA821A944056003AD686 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3E2D43B4191FF8E100B25AC2 /* Main.storyboard */; };
+		3E6645441A4B0EA900128650 /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E6645431A4B0EA900128650 /* MessageUI.framework */; };
+		3E6645461A4B588E00128650 /* PoL.png in Resources */ = {isa = PBXBuildFile; fileRef = 3E6645451A4B588E00128650 /* PoL.png */; };
+		3E66454C1A4B618D00128650 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E66454B1A4B618D00128650 /* AVFoundation.framework */; };
+		3E66454E1A4B619400128650 /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E66454D1A4B619400128650 /* CoreData.framework */; };
+		3E6645501A4B619C00128650 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E66454F1A4B619C00128650 /* CoreLocation.framework */; };
+		3E6645521A4B61A800128650 /* CoreText.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E6645511A4B61A800128650 /* CoreText.framework */; };
+		3E6645541A4B61AF00128650 /* GLKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E6645531A4B61AF00128650 /* GLKit.framework */; };
+		3E6645561A4B61B600128650 /* ImageIO.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E6645551A4B61B500128650 /* ImageIO.framework */; };
+		3E6645581A4B61C100128650 /* libc++.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E6645571A4B61C100128650 /* libc++.dylib */; };
+		3E66455A1A4B61CB00128650 /* libicucore.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E6645591A4B61CB00128650 /* libicucore.dylib */; };
+		3E66455C1A4B61D500128650 /* libz.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E66455B1A4B61D500128650 /* libz.dylib */; };
+		3E66455E1A4B61DC00128650 /* OpenGLES.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E66455D1A4B61DC00128650 /* OpenGLES.framework */; };
+		3E6645601A4B61E300128650 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E66455F1A4B61E300128650 /* QuartzCore.framework */; };
+		3E6645621A4B61EB00128650 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E6645611A4B61EB00128650 /* SystemConfiguration.framework */; };
+		3E6645671A4B7C9900128650 /* mapOfClinic.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E6645661A4B7C9900128650 /* mapOfClinic.m */; };
+		3E908EBF1A4EFAF40053DC13 /* ImageZoom.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E908EBE1A4EFAF40053DC13 /* ImageZoom.m */; };
+		3EAE971C191FCD7300CE048D /* FavoritesTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EAE971B191FCD7300CE048D /* FavoritesTableViewController.m */; };
+		3EB3AFA81960412400425B6C /* RegionTableView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EB3AFA71960412400425B6C /* RegionTableView.m */; };
+		3EB3AFAE196047A200425B6C /* Exercise.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EB3AFAD196047A200425B6C /* Exercise.m */; };
+		3EED34A81925BFDD005BE2C6 /* MoreViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EED34A71925BFDD005BE2C6 /* MoreViewController.m */; };
+		3EED34AE19277907005BE2C6 /* RegionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EED34AD19277907005BE2C6 /* RegionViewController.m */; };
+		3EED34B119277A7A005BE2C6 /* CollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 3EED34B019277A7A005BE2C6 /* CollectionViewCell.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		3E3D432319187C1C005EE687 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3E3D42F519187C1B005EE687 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3E3D42FC19187C1C005EE687;
+			remoteInfo = "Lakeshore Physiotherapy";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		3E0AF7D21A9BBBD200330B84 /* GoogleMaps.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = GoogleMaps.framework; sourceTree = "<group>"; };
+		3E0AF7D41A9BBBE300330B84 /* GoogleMaps.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; name = GoogleMaps.bundle; path = GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle; sourceTree = "<group>"; };
+		3E0AF9B21A9BBCDB00330B84 /* FacebookSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FacebookSDK.framework; sourceTree = "<group>"; };
+		3E0E135A1A49BCCA005AE420 /* numPics.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = numPics.plist; sourceTree = "<group>"; };
+		3E0E18AC1A49D35E005AE420 /* ExerciseViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ExerciseViewController.h; sourceTree = "<group>"; };
+		3E0E18AD1A49D35E005AE420 /* ExerciseViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ExerciseViewController.m; sourceTree = "<group>"; };
+		3E0E18B81A4A64BD005AE420 /* exerciseCollectionViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = exerciseCollectionViewCell.h; path = ../exerciseCollectionViewCell.h; sourceTree = "<group>"; };
+		3E0E18B91A4A64BD005AE420 /* exerciseCollectionViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = exerciseCollectionViewCell.m; path = ../exerciseCollectionViewCell.m; sourceTree = "<group>"; };
+		3E2D43B1191FF66100B25AC2 /* AddFavoriteTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AddFavoriteTableViewController.h; sourceTree = "<group>"; };
+		3E2D43B2191FF66100B25AC2 /* AddFavoriteTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AddFavoriteTableViewController.m; sourceTree = "<group>"; };
+		3E2D43B5191FF8E100B25AC2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		3E38FAC819B3C6E0009ABF98 /* regionList.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = regionList.plist; sourceTree = "<group>"; };
+		3E38FACA19B497B7009ABF98 /* MakeAppt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MakeAppt.h; sourceTree = "<group>"; };
+		3E38FACB19B497B7009ABF98 /* MakeAppt.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MakeAppt.m; sourceTree = "<group>"; };
+		3E3D42FD19187C1C005EE687 /* Physiotherapy on Lakeshore.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Physiotherapy on Lakeshore.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3E3D430019187C1C005EE687 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		3E3D430219187C1C005EE687 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		3E3D430419187C1C005EE687 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		3E3D430819187C1C005EE687 /* Lakeshore Physiotherapy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Lakeshore Physiotherapy-Info.plist"; sourceTree = "<group>"; };
+		3E3D430A19187C1C005EE687 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		3E3D430C19187C1C005EE687 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		3E3D430E19187C1C005EE687 /* Lakeshore Physiotherapy-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Lakeshore Physiotherapy-Prefix.pch"; sourceTree = "<group>"; };
+		3E3D430F19187C1C005EE687 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		3E3D431019187C1C005EE687 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		3E3D431819187C1C005EE687 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		3E3D431E19187C1C005EE687 /* Lakeshore PhysiotherapyTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Lakeshore PhysiotherapyTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3E3D431F19187C1C005EE687 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		3E3D432719187C1C005EE687 /* Lakeshore PhysiotherapyTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Lakeshore PhysiotherapyTests-Info.plist"; sourceTree = "<group>"; };
+		3E3D432919187C1C005EE687 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		3E3D432B19187C1C005EE687 /* Lakeshore_PhysiotherapyTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Lakeshore_PhysiotherapyTests.m; sourceTree = "<group>"; };
+		3E3D433519187D8A005EE687 /* ExerciseTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ExerciseTableViewController.h; path = ../ExerciseTableViewController.h; sourceTree = "<group>"; };
+		3E3D433619187D8B005EE687 /* ExerciseTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ExerciseTableViewController.m; path = ../ExerciseTableViewController.m; sourceTree = "<group>"; };
+		3E464C041AA6C37F001FFD31 /* ExerciseList.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ExerciseList.plist; sourceTree = SOURCE_ROOT; };
+		3E6645431A4B0EA900128650 /* MessageUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MessageUI.framework; path = System/Library/Frameworks/MessageUI.framework; sourceTree = SDKROOT; };
+		3E6645451A4B588E00128650 /* PoL.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PoL.png; sourceTree = "<group>"; };
+		3E66454B1A4B618D00128650 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		3E66454D1A4B619400128650 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		3E66454F1A4B619C00128650 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		3E6645511A4B61A800128650 /* CoreText.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreText.framework; path = System/Library/Frameworks/CoreText.framework; sourceTree = SDKROOT; };
+		3E6645531A4B61AF00128650 /* GLKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GLKit.framework; path = System/Library/Frameworks/GLKit.framework; sourceTree = SDKROOT; };
+		3E6645551A4B61B500128650 /* ImageIO.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ImageIO.framework; path = System/Library/Frameworks/ImageIO.framework; sourceTree = SDKROOT; };
+		3E6645571A4B61C100128650 /* libc++.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = "libc++.dylib"; path = "usr/lib/libc++.dylib"; sourceTree = SDKROOT; };
+		3E6645591A4B61CB00128650 /* libicucore.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libicucore.dylib; path = usr/lib/libicucore.dylib; sourceTree = SDKROOT; };
+		3E66455B1A4B61D500128650 /* libz.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.dylib; path = usr/lib/libz.dylib; sourceTree = SDKROOT; };
+		3E66455D1A4B61DC00128650 /* OpenGLES.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGLES.framework; path = System/Library/Frameworks/OpenGLES.framework; sourceTree = SDKROOT; };
+		3E66455F1A4B61E300128650 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		3E6645611A4B61EB00128650 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		3E6645651A4B7C9900128650 /* mapOfClinic.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = mapOfClinic.h; sourceTree = "<group>"; };
+		3E6645661A4B7C9900128650 /* mapOfClinic.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = mapOfClinic.m; sourceTree = "<group>"; };
+		3E908EBD1A4EFAF40053DC13 /* ImageZoom.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ImageZoom.h; sourceTree = "<group>"; };
+		3E908EBE1A4EFAF40053DC13 /* ImageZoom.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ImageZoom.m; sourceTree = "<group>"; };
+		3EAE971A191FCD7300CE048D /* FavoritesTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FavoritesTableViewController.h; sourceTree = "<group>"; };
+		3EAE971B191FCD7300CE048D /* FavoritesTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FavoritesTableViewController.m; sourceTree = "<group>"; };
+		3EB3AFA61960412400425B6C /* RegionTableView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RegionTableView.h; sourceTree = "<group>"; };
+		3EB3AFA71960412400425B6C /* RegionTableView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RegionTableView.m; sourceTree = "<group>"; };
+		3EB3AFAC196047A200425B6C /* Exercise.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Exercise.h; sourceTree = "<group>"; };
+		3EB3AFAD196047A200425B6C /* Exercise.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Exercise.m; sourceTree = "<group>"; };
+		3EED34A61925BFDD005BE2C6 /* MoreViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MoreViewController.h; sourceTree = "<group>"; };
+		3EED34A71925BFDD005BE2C6 /* MoreViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MoreViewController.m; sourceTree = "<group>"; };
+		3EED34AC19277907005BE2C6 /* RegionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = RegionViewController.h; path = ../RegionViewController.h; sourceTree = "<group>"; };
+		3EED34AD19277907005BE2C6 /* RegionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = RegionViewController.m; path = ../RegionViewController.m; sourceTree = "<group>"; };
+		3EED34AF19277A7A005BE2C6 /* CollectionViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CollectionViewCell.h; sourceTree = "<group>"; };
+		3EED34B019277A7A005BE2C6 /* CollectionViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CollectionViewCell.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3E3D42FA19187C1C005EE687 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3E6645621A4B61EB00128650 /* SystemConfiguration.framework in Frameworks */,
+				3E6645601A4B61E300128650 /* QuartzCore.framework in Frameworks */,
+				3E66455E1A4B61DC00128650 /* OpenGLES.framework in Frameworks */,
+				3E66455C1A4B61D500128650 /* libz.dylib in Frameworks */,
+				3E66455A1A4B61CB00128650 /* libicucore.dylib in Frameworks */,
+				3E0AF9B31A9BBCDC00330B84 /* FacebookSDK.framework in Frameworks */,
+				3E6645581A4B61C100128650 /* libc++.dylib in Frameworks */,
+				3E6645561A4B61B600128650 /* ImageIO.framework in Frameworks */,
+				3E6645541A4B61AF00128650 /* GLKit.framework in Frameworks */,
+				3E6645521A4B61A800128650 /* CoreText.framework in Frameworks */,
+				3E6645501A4B619C00128650 /* CoreLocation.framework in Frameworks */,
+				3E66454E1A4B619400128650 /* CoreData.framework in Frameworks */,
+				3E66454C1A4B618D00128650 /* AVFoundation.framework in Frameworks */,
+				3E6645441A4B0EA900128650 /* MessageUI.framework in Frameworks */,
+				3E3D430319187C1C005EE687 /* CoreGraphics.framework in Frameworks */,
+				3E0AF7D31A9BBBD200330B84 /* GoogleMaps.framework in Frameworks */,
+				3E3D430519187C1C005EE687 /* UIKit.framework in Frameworks */,
+				3E3D430119187C1C005EE687 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3E3D431B19187C1C005EE687 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3E3D432019187C1C005EE687 /* XCTest.framework in Frameworks */,
+				3E3D432219187C1C005EE687 /* UIKit.framework in Frameworks */,
+				3E3D432119187C1C005EE687 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3E3D42F419187C1B005EE687 = {
+			isa = PBXGroup;
+			children = (
+				3E3D430619187C1C005EE687 /* Lakeshore Physiotherapy */,
+				3E3D432519187C1C005EE687 /* Lakeshore PhysiotherapyTests */,
+				3E3D42FF19187C1C005EE687 /* Frameworks */,
+				3E3D42FE19187C1C005EE687 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		3E3D42FE19187C1C005EE687 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3E3D42FD19187C1C005EE687 /* Physiotherapy on Lakeshore.app */,
+				3E3D431E19187C1C005EE687 /* Lakeshore PhysiotherapyTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		3E3D42FF19187C1C005EE687 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				3E0AF9B21A9BBCDB00330B84 /* FacebookSDK.framework */,
+				3E0AF7D41A9BBBE300330B84 /* GoogleMaps.bundle */,
+				3E0AF7D21A9BBBD200330B84 /* GoogleMaps.framework */,
+				3E6645611A4B61EB00128650 /* SystemConfiguration.framework */,
+				3E66455F1A4B61E300128650 /* QuartzCore.framework */,
+				3E66455D1A4B61DC00128650 /* OpenGLES.framework */,
+				3E66455B1A4B61D500128650 /* libz.dylib */,
+				3E6645591A4B61CB00128650 /* libicucore.dylib */,
+				3E6645571A4B61C100128650 /* libc++.dylib */,
+				3E6645551A4B61B500128650 /* ImageIO.framework */,
+				3E6645531A4B61AF00128650 /* GLKit.framework */,
+				3E6645511A4B61A800128650 /* CoreText.framework */,
+				3E66454F1A4B619C00128650 /* CoreLocation.framework */,
+				3E66454D1A4B619400128650 /* CoreData.framework */,
+				3E66454B1A4B618D00128650 /* AVFoundation.framework */,
+				3E6645431A4B0EA900128650 /* MessageUI.framework */,
+				3E3D430019187C1C005EE687 /* Foundation.framework */,
+				3E3D430219187C1C005EE687 /* CoreGraphics.framework */,
+				3E3D430419187C1C005EE687 /* UIKit.framework */,
+				3E3D431F19187C1C005EE687 /* XCTest.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		3E3D430619187C1C005EE687 /* Lakeshore Physiotherapy */ = {
+			isa = PBXGroup;
+			children = (
+				3E6645451A4B588E00128650 /* PoL.png */,
+				3E0E18B81A4A64BD005AE420 /* exerciseCollectionViewCell.h */,
+				3E0E18B91A4A64BD005AE420 /* exerciseCollectionViewCell.m */,
+				3E3D430F19187C1C005EE687 /* AppDelegate.h */,
+				3E3D431019187C1C005EE687 /* AppDelegate.m */,
+				3E2D43B4191FF8E100B25AC2 /* Main.storyboard */,
+				3E908EBD1A4EFAF40053DC13 /* ImageZoom.h */,
+				3E908EBE1A4EFAF40053DC13 /* ImageZoom.m */,
+				3E6645651A4B7C9900128650 /* mapOfClinic.h */,
+				3E6645661A4B7C9900128650 /* mapOfClinic.m */,
+				3E0E18AC1A49D35E005AE420 /* ExerciseViewController.h */,
+				3E0E18AD1A49D35E005AE420 /* ExerciseViewController.m */,
+				3E38FACA19B497B7009ABF98 /* MakeAppt.h */,
+				3E38FACB19B497B7009ABF98 /* MakeAppt.m */,
+				3EB3AFAC196047A200425B6C /* Exercise.h */,
+				3EB3AFAD196047A200425B6C /* Exercise.m */,
+				3E3D433519187D8A005EE687 /* ExerciseTableViewController.h */,
+				3E3D433619187D8B005EE687 /* ExerciseTableViewController.m */,
+				3EAE971A191FCD7300CE048D /* FavoritesTableViewController.h */,
+				3EAE971B191FCD7300CE048D /* FavoritesTableViewController.m */,
+				3E2D43B1191FF66100B25AC2 /* AddFavoriteTableViewController.h */,
+				3E2D43B2191FF66100B25AC2 /* AddFavoriteTableViewController.m */,
+				3EED34AC19277907005BE2C6 /* RegionViewController.h */,
+				3EED34AD19277907005BE2C6 /* RegionViewController.m */,
+				3EED34AF19277A7A005BE2C6 /* CollectionViewCell.h */,
+				3EED34B019277A7A005BE2C6 /* CollectionViewCell.m */,
+				3EB3AFA61960412400425B6C /* RegionTableView.h */,
+				3EB3AFA71960412400425B6C /* RegionTableView.m */,
+				3EED34A61925BFDD005BE2C6 /* MoreViewController.h */,
+				3EED34A71925BFDD005BE2C6 /* MoreViewController.m */,
+				3E3D431819187C1C005EE687 /* Images.xcassets */,
+				3E3D430719187C1C005EE687 /* Supporting Files */,
+			);
+			path = "Lakeshore Physiotherapy";
+			sourceTree = "<group>";
+		};
+		3E3D430719187C1C005EE687 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				3E464C041AA6C37F001FFD31 /* ExerciseList.plist */,
+				3E38FAC819B3C6E0009ABF98 /* regionList.plist */,
+				3E0E135A1A49BCCA005AE420 /* numPics.plist */,
+				3E3D430819187C1C005EE687 /* Lakeshore Physiotherapy-Info.plist */,
+				3E3D430919187C1C005EE687 /* InfoPlist.strings */,
+				3E3D430C19187C1C005EE687 /* main.m */,
+				3E3D430E19187C1C005EE687 /* Lakeshore Physiotherapy-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		3E3D432519187C1C005EE687 /* Lakeshore PhysiotherapyTests */ = {
+			isa = PBXGroup;
+			children = (
+				3E3D432B19187C1C005EE687 /* Lakeshore_PhysiotherapyTests.m */,
+				3E3D432619187C1C005EE687 /* Supporting Files */,
+			);
+			path = "Lakeshore PhysiotherapyTests";
+			sourceTree = "<group>";
+		};
+		3E3D432619187C1C005EE687 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				3E3D432719187C1C005EE687 /* Lakeshore PhysiotherapyTests-Info.plist */,
+				3E3D432819187C1C005EE687 /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3E3D42FC19187C1C005EE687 /* Lakeshore Physiotherapy */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3E3D432F19187C1C005EE687 /* Build configuration list for PBXNativeTarget "Lakeshore Physiotherapy" */;
+			buildPhases = (
+				3E3D42F919187C1C005EE687 /* Sources */,
+				3E3D42FA19187C1C005EE687 /* Frameworks */,
+				3E3D42FB19187C1C005EE687 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Lakeshore Physiotherapy";
+			productName = "Lakeshore Physiotherapy";
+			productReference = 3E3D42FD19187C1C005EE687 /* Physiotherapy on Lakeshore.app */;
+			productType = "com.apple.product-type.application";
+		};
+		3E3D431D19187C1C005EE687 /* Lakeshore PhysiotherapyTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3E3D433219187C1C005EE687 /* Build configuration list for PBXNativeTarget "Lakeshore PhysiotherapyTests" */;
+			buildPhases = (
+				3E3D431A19187C1C005EE687 /* Sources */,
+				3E3D431B19187C1C005EE687 /* Frameworks */,
+				3E3D431C19187C1C005EE687 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3E3D432419187C1C005EE687 /* PBXTargetDependency */,
+			);
+			name = "Lakeshore PhysiotherapyTests";
+			productName = "Lakeshore PhysiotherapyTests";
+			productReference = 3E3D431E19187C1C005EE687 /* Lakeshore PhysiotherapyTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3E3D42F519187C1B005EE687 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0510;
+				ORGANIZATIONNAME = "Tristan Secord";
+				TargetAttributes = {
+					3E3D431D19187C1C005EE687 = {
+						TestTargetID = 3E3D42FC19187C1C005EE687;
+					};
+				};
+			};
+			buildConfigurationList = 3E3D42F819187C1B005EE687 /* Build configuration list for PBXProject "Lakeshore Physiotherapy" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+				he,
+			);
+			mainGroup = 3E3D42F419187C1B005EE687;
+			productRefGroup = 3E3D42FE19187C1C005EE687 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3E3D42FC19187C1C005EE687 /* Lakeshore Physiotherapy */,
+				3E3D431D19187C1C005EE687 /* Lakeshore PhysiotherapyTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		3E3D42FB19187C1C005EE687 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3E464C051AA6C37F001FFD31 /* ExerciseList.plist in Resources */,
+				3E0E135B1A49BCCA005AE420 /* numPics.plist in Resources */,
+				3E38FAC919B3C6E0009ABF98 /* regionList.plist in Resources */,
+				3E6645461A4B588E00128650 /* PoL.png in Resources */,
+				3E4BAA821A944056003AD686 /* Main.storyboard in Resources */,
+				3E3D431919187C1C005EE687 /* Images.xcassets in Resources */,
+				3E3D430B19187C1C005EE687 /* InfoPlist.strings in Resources */,
+				3E0AF7D51A9BBBE300330B84 /* GoogleMaps.bundle in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3E3D431C19187C1C005EE687 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3E3D432A19187C1C005EE687 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3E3D42F919187C1C005EE687 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3E38FACC19B497B7009ABF98 /* MakeAppt.m in Sources */,
+				3EED34A81925BFDD005BE2C6 /* MoreViewController.m in Sources */,
+				3E3D431119187C1C005EE687 /* AppDelegate.m in Sources */,
+				3E2D43B3191FF66100B25AC2 /* AddFavoriteTableViewController.m in Sources */,
+				3EED34B119277A7A005BE2C6 /* CollectionViewCell.m in Sources */,
+				3EED34AE19277907005BE2C6 /* RegionViewController.m in Sources */,
+				3E0E18AE1A49D35E005AE420 /* ExerciseViewController.m in Sources */,
+				3E908EBF1A4EFAF40053DC13 /* ImageZoom.m in Sources */,
+				3EAE971C191FCD7300CE048D /* FavoritesTableViewController.m in Sources */,
+				3E3D430D19187C1C005EE687 /* main.m in Sources */,
+				3E0E18BA1A4A64BD005AE420 /* exerciseCollectionViewCell.m in Sources */,
+				3E3D433719187D8B005EE687 /* ExerciseTableViewController.m in Sources */,
+				3E6645671A4B7C9900128650 /* mapOfClinic.m in Sources */,
+				3EB3AFA81960412400425B6C /* RegionTableView.m in Sources */,
+				3EB3AFAE196047A200425B6C /* Exercise.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3E3D431A19187C1C005EE687 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3E3D432C19187C1C005EE687 /* Lakeshore_PhysiotherapyTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		3E3D432419187C1C005EE687 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3E3D42FC19187C1C005EE687 /* Lakeshore Physiotherapy */;
+			targetProxy = 3E3D432319187C1C005EE687 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		3E2D43B4191FF8E100B25AC2 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3E2D43B5191FF8E100B25AC2 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		3E3D430919187C1C005EE687 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3E3D430A19187C1C005EE687 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		3E3D432819187C1C005EE687 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3E3D432919187C1C005EE687 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		3E3D432D19187C1C005EE687 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Distribution: tristan Secord (53JNKRDHHA)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: tristan Secord (53JNKRDHHA)";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				ONLY_ACTIVE_ARCH = YES;
+				PROVISIONING_PROFILE = "c0e0585d-61d7-49c1-b432-ffb154d22957";
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		3E3D432E19187C1C005EE687 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Distribution: tristan Secord (53JNKRDHHA)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: tristan Secord (53JNKRDHHA)";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				PROVISIONING_PROFILE = "c0e0585d-61d7-49c1-b432-ffb154d22957";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		3E3D433019187C1C005EE687 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: tristan Secord (53JNKRDHHA)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+					"$(PROJECT_DIR)/FacebookSDK",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Lakeshore Physiotherapy/Lakeshore Physiotherapy-Prefix.pch";
+				INFOPLIST_FILE = "Lakeshore Physiotherapy/Lakeshore Physiotherapy-Info.plist";
+				"OTHER_LDFLAGS[arch=*]" = "-ObjC";
+				PRODUCT_NAME = "Physiotherapy on Lakeshore";
+				PROVISIONING_PROFILE = "c0e0585d-61d7-49c1-b432-ffb154d22957";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		3E3D433119187C1C005EE687 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: tristan Secord (53JNKRDHHA)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+					"$(PROJECT_DIR)/FacebookSDK",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Lakeshore Physiotherapy/Lakeshore Physiotherapy-Prefix.pch";
+				INFOPLIST_FILE = "Lakeshore Physiotherapy/Lakeshore Physiotherapy-Info.plist";
+				"OTHER_LDFLAGS[arch=*]" = "-ObjC";
+				PRODUCT_NAME = "Physiotherapy on Lakeshore";
+				PROVISIONING_PROFILE = "c0e0585d-61d7-49c1-b432-ffb154d22957";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		3E3D433319187C1C005EE687 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Lakeshore Physiotherapy.app/Lakeshore Physiotherapy";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Lakeshore Physiotherapy/Lakeshore Physiotherapy-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "Lakeshore PhysiotherapyTests/Lakeshore PhysiotherapyTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		3E3D433419187C1C005EE687 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Lakeshore Physiotherapy.app/Lakeshore Physiotherapy";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Lakeshore Physiotherapy/Lakeshore Physiotherapy-Prefix.pch";
+				INFOPLIST_FILE = "Lakeshore PhysiotherapyTests/Lakeshore PhysiotherapyTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+		3E70A2461A9BB53600DE0A19 /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Distribution: tristan Secord (53JNKRDHHA)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: tristan Secord (53JNKRDHHA)";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				PROVISIONING_PROFILE = "c0e0585d-61d7-49c1-b432-ffb154d22957";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Distribution;
+		};
+		3E70A2471A9BB53600DE0A19 /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: tristan Secord (53JNKRDHHA)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+					"$(PROJECT_DIR)/FacebookSDK",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Lakeshore Physiotherapy/Lakeshore Physiotherapy-Prefix.pch";
+				INFOPLIST_FILE = "Lakeshore Physiotherapy/Lakeshore Physiotherapy-Info.plist";
+				"OTHER_LDFLAGS[arch=*]" = "-ObjC";
+				PRODUCT_NAME = "Physiotherapy on Lakeshore";
+				PROVISIONING_PROFILE = "c0e0585d-61d7-49c1-b432-ffb154d22957";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Distribution;
+		};
+		3E70A2481A9BB53600DE0A19 /* Distribution */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Lakeshore Physiotherapy.app/Lakeshore Physiotherapy";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Lakeshore Physiotherapy/Lakeshore Physiotherapy-Prefix.pch";
+				INFOPLIST_FILE = "Lakeshore PhysiotherapyTests/Lakeshore PhysiotherapyTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Distribution;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3E3D42F819187C1B005EE687 /* Build configuration list for PBXProject "Lakeshore Physiotherapy" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3E3D432D19187C1C005EE687 /* Debug */,
+				3E3D432E19187C1C005EE687 /* Release */,
+				3E70A2461A9BB53600DE0A19 /* Distribution */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3E3D432F19187C1C005EE687 /* Build configuration list for PBXNativeTarget "Lakeshore Physiotherapy" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3E3D433019187C1C005EE687 /* Debug */,
+				3E3D433119187C1C005EE687 /* Release */,
+				3E70A2471A9BB53600DE0A19 /* Distribution */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3E3D433219187C1C005EE687 /* Build configuration list for PBXNativeTarget "Lakeshore PhysiotherapyTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3E3D433319187C1C005EE687 /* Debug */,
+				3E3D433419187C1C005EE687 /* Release */,
+				3E70A2481A9BB53600DE0A19 /* Distribution */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3E3D42F519187C1B005EE687 /* Project object */;
+}
